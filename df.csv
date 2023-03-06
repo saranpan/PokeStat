@@ -1,0 +1,1195 @@
+,national_id,main_name,hp,attack,defense,spatk,spdef,speed,ref,count_form
+0,1,Bulbasaur,45,49,49,65,65,45,/pokedex/bulbasaur,1
+1,2,Ivysaur,60,62,63,80,80,60,/pokedex/ivysaur,1
+2,3,Venusaur,80,82,83,100,100,80,/pokedex/venusaur,2
+3,3,Mega Venusaur,80,100,123,122,120,80,/pokedex/venusaur,2
+4,4,Charmander,39,52,43,60,50,65,/pokedex/charmander,1
+5,5,Charmeleon,58,64,58,80,65,80,/pokedex/charmeleon,1
+6,6,Charizard,78,84,78,109,85,100,/pokedex/charizard,3
+7,6,Mega Charizard X,78,130,111,130,85,100,/pokedex/charizard,3
+8,6,Mega Charizard Y,78,104,78,159,115,100,/pokedex/charizard,3
+9,7,Squirtle,44,48,65,50,64,43,/pokedex/squirtle,1
+10,8,Wartortle,59,63,80,65,80,58,/pokedex/wartortle,1
+11,9,Blastoise,79,83,100,85,105,78,/pokedex/blastoise,2
+12,9,Mega Blastoise,79,103,120,135,115,78,/pokedex/blastoise,2
+13,10,Caterpie,45,30,35,20,20,45,/pokedex/caterpie,1
+14,11,Metapod,50,20,55,25,25,30,/pokedex/metapod,1
+15,12,Butterfree,60,45,50,90,80,70,/pokedex/butterfree,1
+16,13,Weedle,40,35,30,20,20,50,/pokedex/weedle,1
+17,14,Kakuna,45,25,50,25,25,35,/pokedex/kakuna,1
+18,15,Beedrill,65,90,40,45,80,75,/pokedex/beedrill,2
+19,15,Mega Beedrill,65,150,40,15,80,145,/pokedex/beedrill,2
+20,16,Pidgey,40,45,40,35,35,56,/pokedex/pidgey,1
+21,17,Pidgeotto,63,60,55,50,50,71,/pokedex/pidgeotto,1
+22,18,Pidgeot,83,80,75,70,70,101,/pokedex/pidgeot,2
+23,18,Mega Pidgeot,83,80,80,135,80,121,/pokedex/pidgeot,2
+24,19,Rattata,30,56,35,25,35,72,/pokedex/rattata,2
+25,19,Alolan Rattata,30,56,35,25,35,72,/pokedex/rattata,2
+26,20,Raticate,55,81,60,50,70,97,/pokedex/raticate,2
+27,20,Alolan Raticate,75,71,70,40,80,77,/pokedex/raticate,2
+28,21,Spearow,40,60,30,31,31,70,/pokedex/spearow,1
+29,22,Fearow,65,90,65,61,61,100,/pokedex/fearow,1
+30,23,Ekans,35,60,44,40,54,55,/pokedex/ekans,1
+31,24,Arbok,60,95,69,65,79,80,/pokedex/arbok,1
+32,25,Pikachu,35,55,40,50,50,90,/pokedex/pikachu,2
+33,25,Partner Pikachu,45,80,50,75,60,120,/pokedex/pikachu,2
+34,26,Raichu,60,90,55,90,80,110,/pokedex/raichu,2
+35,26,Alolan Raichu,60,85,50,95,85,110,/pokedex/raichu,2
+36,27,Sandshrew,50,75,85,20,30,40,/pokedex/sandshrew,2
+37,27,Alolan Sandshrew,50,75,90,10,35,40,/pokedex/sandshrew,2
+38,28,Sandslash,75,100,110,45,55,65,/pokedex/sandslash,2
+39,28,Alolan Sandslash,75,100,120,25,65,65,/pokedex/sandslash,2
+40,29,Nidoran♀,55,47,52,40,40,41,/pokedex/nidoran-f,1
+41,30,Nidorina,70,62,67,55,55,56,/pokedex/nidorina,1
+42,31,Nidoqueen,90,92,87,75,85,76,/pokedex/nidoqueen,1
+43,32,Nidoran♂,46,57,40,40,40,50,/pokedex/nidoran-m,1
+44,33,Nidorino,61,72,57,55,55,65,/pokedex/nidorino,1
+45,34,Nidoking,81,102,77,85,75,85,/pokedex/nidoking,1
+46,35,Clefairy,70,45,48,60,65,35,/pokedex/clefairy,1
+47,36,Clefable,95,70,73,95,90,60,/pokedex/clefable,1
+48,37,Vulpix,38,41,40,50,65,65,/pokedex/vulpix,2
+49,37,Alolan Vulpix,38,41,40,50,65,65,/pokedex/vulpix,2
+50,38,Ninetales,73,76,75,81,100,100,/pokedex/ninetales,2
+51,38,Alolan Ninetales,73,67,75,81,100,109,/pokedex/ninetales,2
+52,39,Jigglypuff,115,45,20,45,25,20,/pokedex/jigglypuff,1
+53,40,Wigglytuff,140,70,45,85,50,45,/pokedex/wigglytuff,1
+54,41,Zubat,40,45,35,30,40,55,/pokedex/zubat,1
+55,42,Golbat,75,80,70,65,75,90,/pokedex/golbat,1
+56,43,Oddish,45,50,55,75,65,30,/pokedex/oddish,1
+57,44,Gloom,60,65,70,85,75,40,/pokedex/gloom,1
+58,45,Vileplume,75,80,85,110,90,50,/pokedex/vileplume,1
+59,46,Paras,35,70,55,45,55,25,/pokedex/paras,1
+60,47,Parasect,60,95,80,60,80,30,/pokedex/parasect,1
+61,48,Venonat,60,55,50,40,55,45,/pokedex/venonat,1
+62,49,Venomoth,70,65,60,90,75,90,/pokedex/venomoth,1
+63,50,Diglett,10,55,25,35,45,95,/pokedex/diglett,2
+64,50,Alolan Diglett,10,55,30,35,45,90,/pokedex/diglett,2
+65,51,Dugtrio,35,100,50,50,70,120,/pokedex/dugtrio,2
+66,51,Alolan Dugtrio,35,100,60,50,70,110,/pokedex/dugtrio,2
+67,52,Meowth,40,45,35,40,40,90,/pokedex/meowth,3
+68,52,Alolan Meowth,40,35,35,50,40,90,/pokedex/meowth,3
+69,52,Galarian Meowth,50,65,55,40,40,40,/pokedex/meowth,3
+70,53,Persian,65,70,60,65,65,115,/pokedex/persian,2
+71,53,Alolan Persian,65,60,60,75,65,115,/pokedex/persian,2
+72,54,Psyduck,50,52,48,65,50,55,/pokedex/psyduck,1
+73,55,Golduck,80,82,78,95,80,85,/pokedex/golduck,1
+74,56,Mankey,40,80,35,35,45,70,/pokedex/mankey,1
+75,57,Primeape,65,105,60,60,70,95,/pokedex/primeape,1
+76,58,Growlithe,55,70,45,70,50,60,/pokedex/growlithe,2
+77,58,Hisuian Growlithe,60,75,45,65,50,55,/pokedex/growlithe,2
+78,59,Arcanine,90,110,80,100,80,95,/pokedex/arcanine,2
+79,59,Hisuian Arcanine,95,115,80,95,80,90,/pokedex/arcanine,2
+80,60,Poliwag,40,50,40,40,40,90,/pokedex/poliwag,1
+81,61,Poliwhirl,65,65,65,50,50,90,/pokedex/poliwhirl,1
+82,62,Poliwrath,90,95,95,70,90,70,/pokedex/poliwrath,1
+83,63,Abra,25,20,15,105,55,90,/pokedex/abra,1
+84,64,Kadabra,40,35,30,120,70,105,/pokedex/kadabra,1
+85,65,Alakazam,55,50,45,135,95,120,/pokedex/alakazam,2
+86,65,Mega Alakazam,55,50,65,175,105,150,/pokedex/alakazam,2
+87,66,Machop,70,80,50,35,35,35,/pokedex/machop,1
+88,67,Machoke,80,100,70,50,60,45,/pokedex/machoke,1
+89,68,Machamp,90,130,80,65,85,55,/pokedex/machamp,1
+90,69,Bellsprout,50,75,35,70,30,40,/pokedex/bellsprout,1
+91,70,Weepinbell,65,90,50,85,45,55,/pokedex/weepinbell,1
+92,71,Victreebel,80,105,65,100,70,70,/pokedex/victreebel,1
+93,72,Tentacool,40,40,35,50,100,70,/pokedex/tentacool,1
+94,73,Tentacruel,80,70,65,80,120,100,/pokedex/tentacruel,1
+95,74,Geodude,40,80,100,30,30,20,/pokedex/geodude,2
+96,74,Alolan Geodude,40,80,100,30,30,20,/pokedex/geodude,2
+97,75,Graveler,55,95,115,45,45,35,/pokedex/graveler,2
+98,75,Alolan Graveler,55,95,115,45,45,35,/pokedex/graveler,2
+99,76,Golem,80,120,130,55,65,45,/pokedex/golem,2
+100,76,Alolan Golem,80,120,130,55,65,45,/pokedex/golem,2
+101,77,Ponyta,50,85,55,65,65,90,/pokedex/ponyta,2
+102,77,Galarian Ponyta,50,85,55,65,65,90,/pokedex/ponyta,2
+103,78,Rapidash,65,100,70,80,80,105,/pokedex/rapidash,2
+104,78,Galarian Rapidash,65,100,70,80,80,105,/pokedex/rapidash,2
+105,79,Slowpoke,90,65,65,40,40,15,/pokedex/slowpoke,2
+106,79,Galarian Slowpoke,90,65,65,40,40,15,/pokedex/slowpoke,2
+107,80,Slowbro,95,75,110,100,80,30,/pokedex/slowbro,3
+108,80,Mega Slowbro,95,75,180,130,80,30,/pokedex/slowbro,3
+109,80,Galarian Slowbro,95,100,95,100,70,30,/pokedex/slowbro,3
+110,81,Magnemite,25,35,70,95,55,45,/pokedex/magnemite,1
+111,82,Magneton,50,60,95,120,70,70,/pokedex/magneton,1
+112,83,Farfetch'd,52,90,55,58,62,60,/pokedex/farfetchd,2
+113,83,Galarian Farfetch'd,52,95,55,58,62,55,/pokedex/farfetchd,2
+114,84,Doduo,35,85,45,35,35,75,/pokedex/doduo,1
+115,85,Dodrio,60,110,70,60,60,110,/pokedex/dodrio,1
+116,86,Seel,65,45,55,45,70,45,/pokedex/seel,1
+117,87,Dewgong,90,70,80,70,95,70,/pokedex/dewgong,1
+118,88,Grimer,80,80,50,40,50,25,/pokedex/grimer,2
+119,88,Alolan Grimer,80,80,50,40,50,25,/pokedex/grimer,2
+120,89,Muk,105,105,75,65,100,50,/pokedex/muk,2
+121,89,Alolan Muk,105,105,75,65,100,50,/pokedex/muk,2
+122,90,Shellder,30,65,100,45,25,40,/pokedex/shellder,1
+123,91,Cloyster,50,95,180,85,45,70,/pokedex/cloyster,1
+124,92,Gastly,30,35,30,100,35,80,/pokedex/gastly,1
+125,93,Haunter,45,50,45,115,55,95,/pokedex/haunter,1
+126,94,Gengar,60,65,60,130,75,110,/pokedex/gengar,2
+127,94,Mega Gengar,60,65,80,170,95,130,/pokedex/gengar,2
+128,95,Onix,35,45,160,30,45,70,/pokedex/onix,1
+129,96,Drowzee,60,48,45,43,90,42,/pokedex/drowzee,1
+130,97,Hypno,85,73,70,73,115,67,/pokedex/hypno,1
+131,98,Krabby,30,105,90,25,25,50,/pokedex/krabby,1
+132,99,Kingler,55,130,115,50,50,75,/pokedex/kingler,1
+133,100,Voltorb,40,30,50,55,55,100,/pokedex/voltorb,2
+134,100,Hisuian Voltorb,40,30,50,55,55,100,/pokedex/voltorb,2
+135,101,Electrode,60,50,70,80,80,150,/pokedex/electrode,2
+136,101,Hisuian Electrode,60,50,70,80,80,150,/pokedex/electrode,2
+137,102,Exeggcute,60,40,80,60,45,40,/pokedex/exeggcute,1
+138,103,Exeggutor,95,95,85,125,75,55,/pokedex/exeggutor,2
+139,103,Alolan Exeggutor,95,105,85,125,75,45,/pokedex/exeggutor,2
+140,104,Cubone,50,50,95,40,50,35,/pokedex/cubone,1
+141,105,Marowak,60,80,110,50,80,45,/pokedex/marowak,2
+142,105,Alolan Marowak,60,80,110,50,80,45,/pokedex/marowak,2
+143,106,Hitmonlee,50,120,53,35,110,87,/pokedex/hitmonlee,1
+144,107,Hitmonchan,50,105,79,35,110,76,/pokedex/hitmonchan,1
+145,108,Lickitung,90,55,75,60,75,30,/pokedex/lickitung,1
+146,109,Koffing,40,65,95,60,45,35,/pokedex/koffing,1
+147,110,Weezing,65,90,120,85,70,60,/pokedex/weezing,2
+148,110,Galarian Weezing,65,90,120,85,70,60,/pokedex/weezing,2
+149,111,Rhyhorn,80,85,95,30,30,25,/pokedex/rhyhorn,1
+150,112,Rhydon,105,130,120,45,45,40,/pokedex/rhydon,1
+151,113,Chansey,250,5,5,35,105,50,/pokedex/chansey,1
+152,114,Tangela,65,55,115,100,40,60,/pokedex/tangela,1
+153,115,Kangaskhan,105,95,80,40,80,90,/pokedex/kangaskhan,2
+154,115,Mega Kangaskhan,105,125,100,60,100,100,/pokedex/kangaskhan,2
+155,116,Horsea,30,40,70,70,25,60,/pokedex/horsea,1
+156,117,Seadra,55,65,95,95,45,85,/pokedex/seadra,1
+157,118,Goldeen,45,67,60,35,50,63,/pokedex/goldeen,1
+158,119,Seaking,80,92,65,65,80,68,/pokedex/seaking,1
+159,120,Staryu,30,45,55,70,55,85,/pokedex/staryu,1
+160,121,Starmie,60,75,85,100,85,115,/pokedex/starmie,1
+161,122,Mr. Mime,40,45,65,100,120,90,/pokedex/mr-mime,2
+162,122,Galarian Mr. Mime,50,65,65,90,90,100,/pokedex/mr-mime,2
+163,123,Scyther,70,110,80,55,80,105,/pokedex/scyther,1
+164,124,Jynx,65,50,35,115,95,95,/pokedex/jynx,1
+165,125,Electabuzz,65,83,57,95,85,105,/pokedex/electabuzz,1
+166,126,Magmar,65,95,57,100,85,93,/pokedex/magmar,1
+167,127,Pinsir,65,125,100,55,70,85,/pokedex/pinsir,2
+168,127,Mega Pinsir,65,155,120,65,90,105,/pokedex/pinsir,2
+169,128,Tauros,75,100,95,40,70,110,/pokedex/tauros,4
+170,128,Combat Breed,75,110,105,30,70,100,/pokedex/tauros,4
+171,128,Blaze Breed,75,110,105,30,70,100,/pokedex/tauros,4
+172,128,Aqua Breed,75,110,105,30,70,100,/pokedex/tauros,4
+173,129,Magikarp,20,10,55,15,20,80,/pokedex/magikarp,1
+174,130,Gyarados,95,125,79,60,100,81,/pokedex/gyarados,2
+175,130,Mega Gyarados,95,155,109,70,130,81,/pokedex/gyarados,2
+176,131,Lapras,130,85,80,85,95,60,/pokedex/lapras,1
+177,132,Ditto,48,48,48,48,48,48,/pokedex/ditto,1
+178,133,Eevee,55,55,50,45,65,55,/pokedex/eevee,2
+179,133,Partner Eevee,65,75,70,65,85,75,/pokedex/eevee,2
+180,134,Vaporeon,130,65,60,110,95,65,/pokedex/vaporeon,1
+181,135,Jolteon,65,65,60,110,95,130,/pokedex/jolteon,1
+182,136,Flareon,65,130,60,95,110,65,/pokedex/flareon,1
+183,137,Porygon,65,60,70,85,75,40,/pokedex/porygon,1
+184,138,Omanyte,35,40,100,90,55,35,/pokedex/omanyte,1
+185,139,Omastar,70,60,125,115,70,55,/pokedex/omastar,1
+186,140,Kabuto,30,80,90,55,45,55,/pokedex/kabuto,1
+187,141,Kabutops,60,115,105,65,70,80,/pokedex/kabutops,1
+188,142,Aerodactyl,80,105,65,60,75,130,/pokedex/aerodactyl,2
+189,142,Mega Aerodactyl,80,135,85,70,95,150,/pokedex/aerodactyl,2
+190,143,Snorlax,160,110,65,65,110,30,/pokedex/snorlax,1
+191,144,Articuno,90,85,100,95,125,85,/pokedex/articuno,2
+192,144,Galarian Articuno,90,85,85,125,100,95,/pokedex/articuno,2
+193,145,Zapdos,90,90,85,125,90,100,/pokedex/zapdos,2
+194,145,Galarian Zapdos,90,125,90,85,90,100,/pokedex/zapdos,2
+195,146,Moltres,90,100,90,125,85,90,/pokedex/moltres,2
+196,146,Galarian Moltres,90,85,90,100,125,90,/pokedex/moltres,2
+197,147,Dratini,41,64,45,50,50,50,/pokedex/dratini,1
+198,148,Dragonair,61,84,65,70,70,70,/pokedex/dragonair,1
+199,149,Dragonite,91,134,95,100,100,80,/pokedex/dragonite,1
+200,150,Mewtwo,106,110,90,154,90,130,/pokedex/mewtwo,3
+201,150,Mega Mewtwo X,106,190,100,154,100,130,/pokedex/mewtwo,3
+202,150,Mega Mewtwo Y,106,150,70,194,120,140,/pokedex/mewtwo,3
+203,151,Mew,100,100,100,100,100,100,/pokedex/mew,1
+204,152,Chikorita,45,49,65,49,65,45,/pokedex/chikorita,1
+205,153,Bayleef,60,62,80,63,80,60,/pokedex/bayleef,1
+206,154,Meganium,80,82,100,83,100,80,/pokedex/meganium,1
+207,155,Cyndaquil,39,52,43,60,50,65,/pokedex/cyndaquil,1
+208,156,Quilava,58,64,58,80,65,80,/pokedex/quilava,1
+209,157,Typhlosion,78,84,78,109,85,100,/pokedex/typhlosion,2
+210,157,Hisuian Typhlosion,73,84,78,119,85,95,/pokedex/typhlosion,2
+211,158,Totodile,50,65,64,44,48,43,/pokedex/totodile,1
+212,159,Croconaw,65,80,80,59,63,58,/pokedex/croconaw,1
+213,160,Feraligatr,85,105,100,79,83,78,/pokedex/feraligatr,1
+214,161,Sentret,35,46,34,35,45,20,/pokedex/sentret,1
+215,162,Furret,85,76,64,45,55,90,/pokedex/furret,1
+216,163,Hoothoot,60,30,30,36,56,50,/pokedex/hoothoot,1
+217,164,Noctowl,100,50,50,86,96,70,/pokedex/noctowl,1
+218,165,Ledyba,40,20,30,40,80,55,/pokedex/ledyba,1
+219,166,Ledian,55,35,50,55,110,85,/pokedex/ledian,1
+220,167,Spinarak,40,60,40,40,40,30,/pokedex/spinarak,1
+221,168,Ariados,70,90,70,60,70,40,/pokedex/ariados,1
+222,169,Crobat,85,90,80,70,80,130,/pokedex/crobat,1
+223,170,Chinchou,75,38,38,56,56,67,/pokedex/chinchou,1
+224,171,Lanturn,125,58,58,76,76,67,/pokedex/lanturn,1
+225,172,Pichu,20,40,15,35,35,60,/pokedex/pichu,1
+226,173,Cleffa,50,25,28,45,55,15,/pokedex/cleffa,1
+227,174,Igglybuff,90,30,15,40,20,15,/pokedex/igglybuff,1
+228,175,Togepi,35,20,65,40,65,20,/pokedex/togepi,1
+229,176,Togetic,55,40,85,80,105,40,/pokedex/togetic,1
+230,177,Natu,40,50,45,70,45,70,/pokedex/natu,1
+231,178,Xatu,65,75,70,95,70,95,/pokedex/xatu,1
+232,179,Mareep,55,40,40,65,45,35,/pokedex/mareep,1
+233,180,Flaaffy,70,55,55,80,60,45,/pokedex/flaaffy,1
+234,181,Ampharos,90,75,85,115,90,55,/pokedex/ampharos,2
+235,181,Mega Ampharos,90,95,105,165,110,45,/pokedex/ampharos,2
+236,182,Bellossom,75,80,95,90,100,50,/pokedex/bellossom,1
+237,183,Marill,70,20,50,20,50,40,/pokedex/marill,1
+238,184,Azumarill,100,50,80,60,80,50,/pokedex/azumarill,1
+239,185,Sudowoodo,70,100,115,30,65,30,/pokedex/sudowoodo,1
+240,186,Politoed,90,75,75,90,100,70,/pokedex/politoed,1
+241,187,Hoppip,35,35,40,35,55,50,/pokedex/hoppip,1
+242,188,Skiploom,55,45,50,45,65,80,/pokedex/skiploom,1
+243,189,Jumpluff,75,55,70,55,95,110,/pokedex/jumpluff,1
+244,190,Aipom,55,70,55,40,55,85,/pokedex/aipom,1
+245,191,Sunkern,30,30,30,30,30,30,/pokedex/sunkern,1
+246,192,Sunflora,75,75,55,105,85,30,/pokedex/sunflora,1
+247,193,Yanma,65,65,45,75,45,95,/pokedex/yanma,1
+248,194,Wooper,55,45,45,25,25,15,/pokedex/wooper,2
+249,194,Paldean Wooper,55,45,45,25,25,15,/pokedex/wooper,2
+250,195,Quagsire,95,85,85,65,65,35,/pokedex/quagsire,1
+251,196,Espeon,65,65,60,130,95,110,/pokedex/espeon,1
+252,197,Umbreon,95,65,110,60,130,65,/pokedex/umbreon,1
+253,198,Murkrow,60,85,42,85,42,91,/pokedex/murkrow,1
+254,199,Slowking,95,75,80,100,110,30,/pokedex/slowking,2
+255,199,Galarian Slowking,95,65,80,110,110,30,/pokedex/slowking,2
+256,200,Misdreavus,60,60,60,85,85,85,/pokedex/misdreavus,1
+257,201,Unown,48,72,48,72,48,48,/pokedex/unown,1
+258,202,Wobbuffet,190,33,58,33,58,33,/pokedex/wobbuffet,1
+259,203,Girafarig,70,80,65,90,65,85,/pokedex/girafarig,1
+260,204,Pineco,50,65,90,35,35,15,/pokedex/pineco,1
+261,205,Forretress,75,90,140,60,60,40,/pokedex/forretress,1
+262,206,Dunsparce,100,70,70,65,65,45,/pokedex/dunsparce,1
+263,207,Gligar,65,75,105,35,65,85,/pokedex/gligar,1
+264,208,Steelix,75,85,200,55,65,30,/pokedex/steelix,2
+265,208,Mega Steelix,75,125,230,55,95,30,/pokedex/steelix,2
+266,209,Snubbull,60,80,50,40,40,30,/pokedex/snubbull,1
+267,210,Granbull,90,120,75,60,60,45,/pokedex/granbull,1
+268,211,Qwilfish,65,95,85,55,55,85,/pokedex/qwilfish,2
+269,211,Hisuian Qwilfish,65,95,85,55,55,85,/pokedex/qwilfish,2
+270,212,Scizor,70,130,100,55,80,65,/pokedex/scizor,2
+271,212,Mega Scizor,70,150,140,65,100,75,/pokedex/scizor,2
+272,213,Shuckle,20,10,230,10,230,5,/pokedex/shuckle,1
+273,214,Heracross,80,125,75,40,95,85,/pokedex/heracross,2
+274,214,Mega Heracross,80,185,115,40,105,75,/pokedex/heracross,2
+275,215,Sneasel,55,95,55,35,75,115,/pokedex/sneasel,2
+276,215,Hisuian Sneasel,55,95,55,35,75,115,/pokedex/sneasel,2
+277,216,Teddiursa,60,80,50,50,50,40,/pokedex/teddiursa,1
+278,217,Ursaring,90,130,75,75,75,55,/pokedex/ursaring,1
+279,218,Slugma,40,40,40,70,40,20,/pokedex/slugma,1
+280,219,Magcargo,60,50,120,90,80,30,/pokedex/magcargo,1
+281,220,Swinub,50,50,40,30,30,50,/pokedex/swinub,1
+282,221,Piloswine,100,100,80,60,60,50,/pokedex/piloswine,1
+283,222,Corsola,65,55,95,65,95,35,/pokedex/corsola,2
+284,222,Galarian Corsola,60,55,100,65,100,30,/pokedex/corsola,2
+285,223,Remoraid,35,65,35,65,35,65,/pokedex/remoraid,1
+286,224,Octillery,75,105,75,105,75,45,/pokedex/octillery,1
+287,225,Delibird,45,55,45,65,45,75,/pokedex/delibird,1
+288,226,Mantine,85,40,70,80,140,70,/pokedex/mantine,1
+289,227,Skarmory,65,80,140,40,70,70,/pokedex/skarmory,1
+290,228,Houndour,45,60,30,80,50,65,/pokedex/houndour,1
+291,229,Houndoom,75,90,50,110,80,95,/pokedex/houndoom,2
+292,229,Mega Houndoom,75,90,90,140,90,115,/pokedex/houndoom,2
+293,230,Kingdra,75,95,95,95,95,85,/pokedex/kingdra,1
+294,231,Phanpy,90,60,60,40,40,40,/pokedex/phanpy,1
+295,232,Donphan,90,120,120,60,60,50,/pokedex/donphan,1
+296,233,Porygon2,85,80,90,105,95,60,/pokedex/porygon2,1
+297,234,Stantler,73,95,62,85,65,85,/pokedex/stantler,1
+298,235,Smeargle,55,20,35,20,45,75,/pokedex/smeargle,1
+299,236,Tyrogue,35,35,35,35,35,35,/pokedex/tyrogue,1
+300,237,Hitmontop,50,95,95,35,110,70,/pokedex/hitmontop,1
+301,238,Smoochum,45,30,15,85,65,65,/pokedex/smoochum,1
+302,239,Elekid,45,63,37,65,55,95,/pokedex/elekid,1
+303,240,Magby,45,75,37,70,55,83,/pokedex/magby,1
+304,241,Miltank,95,80,105,40,70,100,/pokedex/miltank,1
+305,242,Blissey,255,10,10,75,135,55,/pokedex/blissey,1
+306,243,Raikou,90,85,75,115,100,115,/pokedex/raikou,1
+307,244,Entei,115,115,85,90,75,100,/pokedex/entei,1
+308,245,Suicune,100,75,115,90,115,85,/pokedex/suicune,1
+309,246,Larvitar,50,64,50,45,50,41,/pokedex/larvitar,1
+310,247,Pupitar,70,84,70,65,70,51,/pokedex/pupitar,1
+311,248,Tyranitar,100,134,110,95,100,61,/pokedex/tyranitar,2
+312,248,Mega Tyranitar,100,164,150,95,120,71,/pokedex/tyranitar,2
+313,249,Lugia,106,90,130,90,154,110,/pokedex/lugia,1
+314,250,Ho-oh,106,130,90,110,154,90,/pokedex/ho-oh,1
+315,251,Celebi,100,100,100,100,100,100,/pokedex/celebi,1
+316,252,Treecko,40,45,35,65,55,70,/pokedex/treecko,1
+317,253,Grovyle,50,65,45,85,65,95,/pokedex/grovyle,1
+318,254,Sceptile,70,85,65,105,85,120,/pokedex/sceptile,2
+319,254,Mega Sceptile,70,110,75,145,85,145,/pokedex/sceptile,2
+320,255,Torchic,45,60,40,70,50,45,/pokedex/torchic,1
+321,256,Combusken,60,85,60,85,60,55,/pokedex/combusken,1
+322,257,Blaziken,80,120,70,110,70,80,/pokedex/blaziken,2
+323,257,Mega Blaziken,80,160,80,130,80,100,/pokedex/blaziken,2
+324,258,Mudkip,50,70,50,50,50,40,/pokedex/mudkip,1
+325,259,Marshtomp,70,85,70,60,70,50,/pokedex/marshtomp,1
+326,260,Swampert,100,110,90,85,90,60,/pokedex/swampert,2
+327,260,Mega Swampert,100,150,110,95,110,70,/pokedex/swampert,2
+328,261,Poochyena,35,55,35,30,30,35,/pokedex/poochyena,1
+329,262,Mightyena,70,90,70,60,60,70,/pokedex/mightyena,1
+330,263,Zigzagoon,38,30,41,30,41,60,/pokedex/zigzagoon,2
+331,263,Galarian Zigzagoon,38,30,41,30,41,60,/pokedex/zigzagoon,2
+332,264,Linoone,78,70,61,50,61,100,/pokedex/linoone,2
+333,264,Galarian Linoone,78,70,61,50,61,100,/pokedex/linoone,2
+334,265,Wurmple,45,45,35,20,30,20,/pokedex/wurmple,1
+335,266,Silcoon,50,35,55,25,25,15,/pokedex/silcoon,1
+336,267,Beautifly,60,70,50,100,50,65,/pokedex/beautifly,1
+337,268,Cascoon,50,35,55,25,25,15,/pokedex/cascoon,1
+338,269,Dustox,60,50,70,50,90,65,/pokedex/dustox,1
+339,270,Lotad,40,30,30,40,50,30,/pokedex/lotad,1
+340,271,Lombre,60,50,50,60,70,50,/pokedex/lombre,1
+341,272,Ludicolo,80,70,70,90,100,70,/pokedex/ludicolo,1
+342,273,Seedot,40,40,50,30,30,30,/pokedex/seedot,1
+343,274,Nuzleaf,70,70,40,60,40,60,/pokedex/nuzleaf,1
+344,275,Shiftry,90,100,60,90,60,80,/pokedex/shiftry,1
+345,276,Taillow,40,55,30,30,30,85,/pokedex/taillow,1
+346,277,Swellow,60,85,60,75,50,125,/pokedex/swellow,1
+347,278,Wingull,40,30,30,55,30,85,/pokedex/wingull,1
+348,279,Pelipper,60,50,100,95,70,65,/pokedex/pelipper,1
+349,280,Ralts,28,25,25,45,35,40,/pokedex/ralts,1
+350,281,Kirlia,38,35,35,65,55,50,/pokedex/kirlia,1
+351,282,Gardevoir,68,65,65,125,115,80,/pokedex/gardevoir,2
+352,282,Mega Gardevoir,68,85,65,165,135,100,/pokedex/gardevoir,2
+353,283,Surskit,40,30,32,50,52,65,/pokedex/surskit,1
+354,284,Masquerain,70,60,62,100,82,80,/pokedex/masquerain,1
+355,285,Shroomish,60,40,60,40,60,35,/pokedex/shroomish,1
+356,286,Breloom,60,130,80,60,60,70,/pokedex/breloom,1
+357,287,Slakoth,60,60,60,35,35,30,/pokedex/slakoth,1
+358,288,Vigoroth,80,80,80,55,55,90,/pokedex/vigoroth,1
+359,289,Slaking,150,160,100,95,65,100,/pokedex/slaking,1
+360,290,Nincada,31,45,90,30,30,40,/pokedex/nincada,1
+361,291,Ninjask,61,90,45,50,50,160,/pokedex/ninjask,1
+362,292,Shedinja,1,90,45,30,30,40,/pokedex/shedinja,1
+363,293,Whismur,64,51,23,51,23,28,/pokedex/whismur,1
+364,294,Loudred,84,71,43,71,43,48,/pokedex/loudred,1
+365,295,Exploud,104,91,63,91,73,68,/pokedex/exploud,1
+366,296,Makuhita,72,60,30,20,30,25,/pokedex/makuhita,1
+367,297,Hariyama,144,120,60,40,60,50,/pokedex/hariyama,1
+368,298,Azurill,50,20,40,20,40,20,/pokedex/azurill,1
+369,299,Nosepass,30,45,135,45,90,30,/pokedex/nosepass,1
+370,300,Skitty,50,45,45,35,35,50,/pokedex/skitty,1
+371,301,Delcatty,70,65,65,55,55,90,/pokedex/delcatty,1
+372,302,Sableye,50,75,75,65,65,50,/pokedex/sableye,2
+373,302,Mega Sableye,50,85,125,85,115,20,/pokedex/sableye,2
+374,303,Mawile,50,85,85,55,55,50,/pokedex/mawile,2
+375,303,Mega Mawile,50,105,125,55,95,50,/pokedex/mawile,2
+376,304,Aron,50,70,100,40,40,30,/pokedex/aron,1
+377,305,Lairon,60,90,140,50,50,40,/pokedex/lairon,1
+378,306,Aggron,70,110,180,60,60,50,/pokedex/aggron,2
+379,306,Mega Aggron,70,140,230,60,80,50,/pokedex/aggron,2
+380,307,Meditite,30,40,55,40,55,60,/pokedex/meditite,1
+381,308,Medicham,60,60,75,60,75,80,/pokedex/medicham,2
+382,308,Mega Medicham,60,100,85,80,85,100,/pokedex/medicham,2
+383,309,Electrike,40,45,40,65,40,65,/pokedex/electrike,1
+384,310,Manectric,70,75,60,105,60,105,/pokedex/manectric,2
+385,310,Mega Manectric,70,75,80,135,80,135,/pokedex/manectric,2
+386,311,Plusle,60,50,40,85,75,95,/pokedex/plusle,1
+387,312,Minun,60,40,50,75,85,95,/pokedex/minun,1
+388,313,Volbeat,65,73,75,47,85,85,/pokedex/volbeat,1
+389,314,Illumise,65,47,75,73,85,85,/pokedex/illumise,1
+390,315,Roselia,50,60,45,100,80,65,/pokedex/roselia,1
+391,316,Gulpin,70,43,53,43,53,40,/pokedex/gulpin,1
+392,317,Swalot,100,73,83,73,83,55,/pokedex/swalot,1
+393,318,Carvanha,45,90,20,65,20,65,/pokedex/carvanha,1
+394,319,Sharpedo,70,120,40,95,40,95,/pokedex/sharpedo,2
+395,319,Mega Sharpedo,70,140,70,110,65,105,/pokedex/sharpedo,2
+396,320,Wailmer,130,70,35,70,35,60,/pokedex/wailmer,1
+397,321,Wailord,170,90,45,90,45,60,/pokedex/wailord,1
+398,322,Numel,60,60,40,65,45,35,/pokedex/numel,1
+399,323,Camerupt,70,100,70,105,75,40,/pokedex/camerupt,2
+400,323,Mega Camerupt,70,120,100,145,105,20,/pokedex/camerupt,2
+401,324,Torkoal,70,85,140,85,70,20,/pokedex/torkoal,1
+402,325,Spoink,60,25,35,70,80,60,/pokedex/spoink,1
+403,326,Grumpig,80,45,65,90,110,80,/pokedex/grumpig,1
+404,327,Spinda,60,60,60,60,60,60,/pokedex/spinda,1
+405,328,Trapinch,45,100,45,45,45,10,/pokedex/trapinch,1
+406,329,Vibrava,50,70,50,50,50,70,/pokedex/vibrava,1
+407,330,Flygon,80,100,80,80,80,100,/pokedex/flygon,1
+408,331,Cacnea,50,85,40,85,40,35,/pokedex/cacnea,1
+409,332,Cacturne,70,115,60,115,60,55,/pokedex/cacturne,1
+410,333,Swablu,45,40,60,40,75,50,/pokedex/swablu,1
+411,334,Altaria,75,70,90,70,105,80,/pokedex/altaria,2
+412,334,Mega Altaria,75,110,110,110,105,80,/pokedex/altaria,2
+413,335,Zangoose,73,115,60,60,60,90,/pokedex/zangoose,1
+414,336,Seviper,73,100,60,100,60,65,/pokedex/seviper,1
+415,337,Lunatone,90,55,65,95,85,70,/pokedex/lunatone,1
+416,338,Solrock,90,95,85,55,65,70,/pokedex/solrock,1
+417,339,Barboach,50,48,43,46,41,60,/pokedex/barboach,1
+418,340,Whiscash,110,78,73,76,71,60,/pokedex/whiscash,1
+419,341,Corphish,43,80,65,50,35,35,/pokedex/corphish,1
+420,342,Crawdaunt,63,120,85,90,55,55,/pokedex/crawdaunt,1
+421,343,Baltoy,40,40,55,40,70,55,/pokedex/baltoy,1
+422,344,Claydol,60,70,105,70,120,75,/pokedex/claydol,1
+423,345,Lileep,66,41,77,61,87,23,/pokedex/lileep,1
+424,346,Cradily,86,81,97,81,107,43,/pokedex/cradily,1
+425,347,Anorith,45,95,50,40,50,75,/pokedex/anorith,1
+426,348,Armaldo,75,125,100,70,80,45,/pokedex/armaldo,1
+427,349,Feebas,20,15,20,10,55,80,/pokedex/feebas,1
+428,350,Milotic,95,60,79,100,125,81,/pokedex/milotic,1
+429,351,Castform,70,70,70,70,70,70,/pokedex/castform,4
+430,351,Sunny Form,70,70,70,70,70,70,/pokedex/castform,4
+431,351,Rainy Form,70,70,70,70,70,70,/pokedex/castform,4
+432,351,Snowy Form,70,70,70,70,70,70,/pokedex/castform,4
+433,352,Kecleon,60,90,70,60,120,40,/pokedex/kecleon,1
+434,353,Shuppet,44,75,35,63,33,45,/pokedex/shuppet,1
+435,354,Banette,64,115,65,83,63,65,/pokedex/banette,2
+436,354,Mega Banette,64,165,75,93,83,75,/pokedex/banette,2
+437,355,Duskull,20,40,90,30,90,25,/pokedex/duskull,1
+438,356,Dusclops,40,70,130,60,130,25,/pokedex/dusclops,1
+439,357,Tropius,99,68,83,72,87,51,/pokedex/tropius,1
+440,358,Chimecho,75,50,80,95,90,65,/pokedex/chimecho,1
+441,359,Absol,65,130,60,75,60,75,/pokedex/absol,2
+442,359,Mega Absol,65,150,60,115,60,115,/pokedex/absol,2
+443,360,Wynaut,95,23,48,23,48,23,/pokedex/wynaut,1
+444,361,Snorunt,50,50,50,50,50,50,/pokedex/snorunt,1
+445,362,Glalie,80,80,80,80,80,80,/pokedex/glalie,2
+446,362,Mega Glalie,80,120,80,120,80,100,/pokedex/glalie,2
+447,363,Spheal,70,40,50,55,50,25,/pokedex/spheal,1
+448,364,Sealeo,90,60,70,75,70,45,/pokedex/sealeo,1
+449,365,Walrein,110,80,90,95,90,65,/pokedex/walrein,1
+450,366,Clamperl,35,64,85,74,55,32,/pokedex/clamperl,1
+451,367,Huntail,55,104,105,94,75,52,/pokedex/huntail,1
+452,368,Gorebyss,55,84,105,114,75,52,/pokedex/gorebyss,1
+453,369,Relicanth,100,90,130,45,65,55,/pokedex/relicanth,1
+454,370,Luvdisc,43,30,55,40,65,97,/pokedex/luvdisc,1
+455,371,Bagon,45,75,60,40,30,50,/pokedex/bagon,1
+456,372,Shelgon,65,95,100,60,50,50,/pokedex/shelgon,1
+457,373,Salamence,95,135,80,110,80,100,/pokedex/salamence,2
+458,373,Mega Salamence,95,145,130,120,90,120,/pokedex/salamence,2
+459,374,Beldum,40,55,80,35,60,30,/pokedex/beldum,1
+460,375,Metang,60,75,100,55,80,50,/pokedex/metang,1
+461,376,Metagross,80,135,130,95,90,70,/pokedex/metagross,2
+462,376,Mega Metagross,80,145,150,105,110,110,/pokedex/metagross,2
+463,377,Regirock,80,100,200,50,100,50,/pokedex/regirock,1
+464,378,Regice,80,50,100,100,200,50,/pokedex/regice,1
+465,379,Registeel,80,75,150,75,150,50,/pokedex/registeel,1
+466,380,Latias,80,80,90,110,130,110,/pokedex/latias,2
+467,380,Mega Latias,80,100,120,140,150,110,/pokedex/latias,2
+468,381,Latios,80,90,80,130,110,110,/pokedex/latios,2
+469,381,Mega Latios,80,130,100,160,120,110,/pokedex/latios,2
+470,382,Kyogre,100,100,90,150,140,90,/pokedex/kyogre,2
+471,382,Primal Kyogre,100,150,90,180,160,90,/pokedex/kyogre,2
+472,383,Groudon,100,150,140,100,90,90,/pokedex/groudon,2
+473,383,Primal Groudon,100,180,160,150,90,90,/pokedex/groudon,2
+474,384,Rayquaza,105,150,90,150,90,95,/pokedex/rayquaza,2
+475,384,Mega Rayquaza,105,180,100,180,100,115,/pokedex/rayquaza,2
+476,385,Jirachi,100,100,100,100,100,100,/pokedex/jirachi,1
+477,386,Normal Forme,50,150,50,150,50,150,/pokedex/deoxys,4
+478,386,Attack Forme,50,180,20,180,20,150,/pokedex/deoxys,4
+479,386,Defense Forme,50,70,160,70,160,90,/pokedex/deoxys,4
+480,386,Speed Forme,50,95,90,95,90,180,/pokedex/deoxys,4
+481,387,Turtwig,55,68,64,45,55,31,/pokedex/turtwig,1
+482,388,Grotle,75,89,85,55,65,36,/pokedex/grotle,1
+483,389,Torterra,95,109,105,75,85,56,/pokedex/torterra,1
+484,390,Chimchar,44,58,44,58,44,61,/pokedex/chimchar,1
+485,391,Monferno,64,78,52,78,52,81,/pokedex/monferno,1
+486,392,Infernape,76,104,71,104,71,108,/pokedex/infernape,1
+487,393,Piplup,53,51,53,61,56,40,/pokedex/piplup,1
+488,394,Prinplup,64,66,68,81,76,50,/pokedex/prinplup,1
+489,395,Empoleon,84,86,88,111,101,60,/pokedex/empoleon,1
+490,396,Starly,40,55,30,30,30,60,/pokedex/starly,1
+491,397,Staravia,55,75,50,40,40,80,/pokedex/staravia,1
+492,398,Staraptor,85,120,70,50,60,100,/pokedex/staraptor,1
+493,399,Bidoof,59,45,40,35,40,31,/pokedex/bidoof,1
+494,400,Bibarel,79,85,60,55,60,71,/pokedex/bibarel,1
+495,401,Kricketot,37,25,41,25,41,25,/pokedex/kricketot,1
+496,402,Kricketune,77,85,51,55,51,65,/pokedex/kricketune,1
+497,403,Shinx,45,65,34,40,34,45,/pokedex/shinx,1
+498,404,Luxio,60,85,49,60,49,60,/pokedex/luxio,1
+499,405,Luxray,80,120,79,95,79,70,/pokedex/luxray,1
+500,406,Budew,40,30,35,50,70,55,/pokedex/budew,1
+501,407,Roserade,60,70,65,125,105,90,/pokedex/roserade,1
+502,408,Cranidos,67,125,40,30,30,58,/pokedex/cranidos,1
+503,409,Rampardos,97,165,60,65,50,58,/pokedex/rampardos,1
+504,410,Shieldon,30,42,118,42,88,30,/pokedex/shieldon,1
+505,411,Bastiodon,60,52,168,47,138,30,/pokedex/bastiodon,1
+506,412,Plant Cloak,40,29,45,29,45,36,/pokedex/burmy,3
+507,412,Sandy Cloak,40,29,45,29,45,36,/pokedex/burmy,3
+508,412,Trash Cloak,40,29,45,29,45,36,/pokedex/burmy,3
+509,413,Plant Cloak,60,59,85,79,105,36,/pokedex/wormadam,3
+510,413,Sandy Cloak,60,79,105,59,85,36,/pokedex/wormadam,3
+511,413,Trash Cloak,60,69,95,69,95,36,/pokedex/wormadam,3
+512,414,Mothim,70,94,50,94,50,66,/pokedex/mothim,1
+513,415,Combee,30,30,42,30,42,70,/pokedex/combee,1
+514,416,Vespiquen,70,80,102,80,102,40,/pokedex/vespiquen,1
+515,417,Pachirisu,60,45,70,45,90,95,/pokedex/pachirisu,1
+516,418,Buizel,55,65,35,60,30,85,/pokedex/buizel,1
+517,419,Floatzel,85,105,55,85,50,115,/pokedex/floatzel,1
+518,420,Cherubi,45,35,45,62,53,35,/pokedex/cherubi,1
+519,421,Cherrim,70,60,70,87,78,85,/pokedex/cherrim,1
+520,422,Shellos,76,48,48,57,62,34,/pokedex/shellos,1
+521,423,Gastrodon,111,83,68,92,82,39,/pokedex/gastrodon,1
+522,424,Ambipom,75,100,66,60,66,115,/pokedex/ambipom,1
+523,425,Drifloon,90,50,34,60,44,70,/pokedex/drifloon,1
+524,426,Drifblim,150,80,44,90,54,80,/pokedex/drifblim,1
+525,427,Buneary,55,66,44,44,56,85,/pokedex/buneary,1
+526,428,Lopunny,65,76,84,54,96,105,/pokedex/lopunny,2
+527,428,Mega Lopunny,65,136,94,54,96,135,/pokedex/lopunny,2
+528,429,Mismagius,60,60,60,105,105,105,/pokedex/mismagius,1
+529,430,Honchkrow,100,125,52,105,52,71,/pokedex/honchkrow,1
+530,431,Glameow,49,55,42,42,37,85,/pokedex/glameow,1
+531,432,Purugly,71,82,64,64,59,112,/pokedex/purugly,1
+532,433,Chingling,45,30,50,65,50,45,/pokedex/chingling,1
+533,434,Stunky,63,63,47,41,41,74,/pokedex/stunky,1
+534,435,Skuntank,103,93,67,71,61,84,/pokedex/skuntank,1
+535,436,Bronzor,57,24,86,24,86,23,/pokedex/bronzor,1
+536,437,Bronzong,67,89,116,79,116,33,/pokedex/bronzong,1
+537,438,Bonsly,50,80,95,10,45,10,/pokedex/bonsly,1
+538,439,Mime Jr.,20,25,45,70,90,60,/pokedex/mime-jr,1
+539,440,Happiny,100,5,5,15,65,30,/pokedex/happiny,1
+540,441,Chatot,76,65,45,92,42,91,/pokedex/chatot,1
+541,442,Spiritomb,50,92,108,92,108,35,/pokedex/spiritomb,1
+542,443,Gible,58,70,45,40,45,42,/pokedex/gible,1
+543,444,Gabite,68,90,65,50,55,82,/pokedex/gabite,1
+544,445,Garchomp,108,130,95,80,85,102,/pokedex/garchomp,2
+545,445,Mega Garchomp,108,170,115,120,95,92,/pokedex/garchomp,2
+546,446,Munchlax,135,85,40,40,85,5,/pokedex/munchlax,1
+547,447,Riolu,40,70,40,35,40,60,/pokedex/riolu,1
+548,448,Lucario,70,110,70,115,70,90,/pokedex/lucario,2
+549,448,Mega Lucario,70,145,88,140,70,112,/pokedex/lucario,2
+550,449,Hippopotas,68,72,78,38,42,32,/pokedex/hippopotas,1
+551,450,Hippowdon,108,112,118,68,72,47,/pokedex/hippowdon,1
+552,451,Skorupi,40,50,90,30,55,65,/pokedex/skorupi,1
+553,452,Drapion,70,90,110,60,75,95,/pokedex/drapion,1
+554,453,Croagunk,48,61,40,61,40,50,/pokedex/croagunk,1
+555,454,Toxicroak,83,106,65,86,65,85,/pokedex/toxicroak,1
+556,455,Carnivine,74,100,72,90,72,46,/pokedex/carnivine,1
+557,456,Finneon,49,49,56,49,61,66,/pokedex/finneon,1
+558,457,Lumineon,69,69,76,69,86,91,/pokedex/lumineon,1
+559,458,Mantyke,45,20,50,60,120,50,/pokedex/mantyke,1
+560,459,Snover,60,62,50,62,60,40,/pokedex/snover,1
+561,460,Abomasnow,90,92,75,92,85,60,/pokedex/abomasnow,2
+562,460,Mega Abomasnow,90,132,105,132,105,30,/pokedex/abomasnow,2
+563,461,Weavile,70,120,65,45,85,125,/pokedex/weavile,1
+564,462,Magnezone,70,70,115,130,90,60,/pokedex/magnezone,1
+565,463,Lickilicky,110,85,95,80,95,50,/pokedex/lickilicky,1
+566,464,Rhyperior,115,140,130,55,55,40,/pokedex/rhyperior,1
+567,465,Tangrowth,100,100,125,110,50,50,/pokedex/tangrowth,1
+568,466,Electivire,75,123,67,95,85,95,/pokedex/electivire,1
+569,467,Magmortar,75,95,67,125,95,83,/pokedex/magmortar,1
+570,468,Togekiss,85,50,95,120,115,80,/pokedex/togekiss,1
+571,469,Yanmega,86,76,86,116,56,95,/pokedex/yanmega,1
+572,470,Leafeon,65,110,130,60,65,95,/pokedex/leafeon,1
+573,471,Glaceon,65,60,110,130,95,65,/pokedex/glaceon,1
+574,472,Gliscor,75,95,125,45,75,95,/pokedex/gliscor,1
+575,473,Mamoswine,110,130,80,70,60,80,/pokedex/mamoswine,1
+576,474,Porygon-Z,85,80,70,135,75,90,/pokedex/porygon-z,1
+577,475,Gallade,68,125,65,65,115,80,/pokedex/gallade,2
+578,475,Mega Gallade,68,165,95,65,115,110,/pokedex/gallade,2
+579,476,Probopass,60,55,145,75,150,40,/pokedex/probopass,1
+580,477,Dusknoir,45,100,135,65,135,45,/pokedex/dusknoir,1
+581,478,Froslass,70,80,70,80,70,110,/pokedex/froslass,1
+582,479,Rotom,50,50,77,95,77,91,/pokedex/rotom,6
+583,479,Heat Rotom,50,65,107,105,107,86,/pokedex/rotom,6
+584,479,Wash Rotom,50,65,107,105,107,86,/pokedex/rotom,6
+585,479,Frost Rotom,50,65,107,105,107,86,/pokedex/rotom,6
+586,479,Fan Rotom,50,65,107,105,107,86,/pokedex/rotom,6
+587,479,Mow Rotom,50,65,107,105,107,86,/pokedex/rotom,6
+588,480,Uxie,75,75,130,75,130,95,/pokedex/uxie,1
+589,481,Mesprit,80,105,105,105,105,80,/pokedex/mesprit,1
+590,482,Azelf,75,125,70,125,70,115,/pokedex/azelf,1
+591,483,Dialga,100,120,120,150,100,90,/pokedex/dialga,2
+592,483,Origin Forme,100,100,120,150,120,90,/pokedex/dialga,2
+593,484,Palkia,90,120,100,150,120,100,/pokedex/palkia,2
+594,484,Origin Forme,90,100,100,150,120,120,/pokedex/palkia,2
+595,485,Heatran,91,90,106,130,106,77,/pokedex/heatran,1
+596,486,Regigigas,110,160,110,80,110,100,/pokedex/regigigas,1
+597,487,Altered Forme,150,100,120,100,120,90,/pokedex/giratina,2
+598,487,Origin Forme,150,120,100,120,100,90,/pokedex/giratina,2
+599,488,Cresselia,120,70,110,75,120,85,/pokedex/cresselia,1
+600,489,Phione,80,80,80,80,80,80,/pokedex/phione,1
+601,490,Manaphy,100,100,100,100,100,100,/pokedex/manaphy,1
+602,491,Darkrai,70,90,90,135,90,125,/pokedex/darkrai,1
+603,492,Land Forme,100,100,100,100,100,100,/pokedex/shaymin,2
+604,492,Sky Forme,100,103,75,120,75,127,/pokedex/shaymin,2
+605,493,Arceus,120,120,120,120,120,120,/pokedex/arceus,1
+606,494,Victini,100,100,100,100,100,100,/pokedex/victini,1
+607,495,Snivy,45,45,55,45,55,63,/pokedex/snivy,1
+608,496,Servine,60,60,75,60,75,83,/pokedex/servine,1
+609,497,Serperior,75,75,95,75,95,113,/pokedex/serperior,1
+610,498,Tepig,65,63,45,45,45,45,/pokedex/tepig,1
+611,499,Pignite,90,93,55,70,55,55,/pokedex/pignite,1
+612,500,Emboar,110,123,65,100,65,65,/pokedex/emboar,1
+613,501,Oshawott,55,55,45,63,45,45,/pokedex/oshawott,1
+614,502,Dewott,75,75,60,83,60,60,/pokedex/dewott,1
+615,503,Samurott,95,100,85,108,70,70,/pokedex/samurott,2
+616,503,Hisuian Samurott,90,108,80,100,65,85,/pokedex/samurott,2
+617,504,Patrat,45,55,39,35,39,42,/pokedex/patrat,1
+618,505,Watchog,60,85,69,60,69,77,/pokedex/watchog,1
+619,506,Lillipup,45,60,45,25,45,55,/pokedex/lillipup,1
+620,507,Herdier,65,80,65,35,65,60,/pokedex/herdier,1
+621,508,Stoutland,85,110,90,45,90,80,/pokedex/stoutland,1
+622,509,Purrloin,41,50,37,50,37,66,/pokedex/purrloin,1
+623,510,Liepard,64,88,50,88,50,106,/pokedex/liepard,1
+624,511,Pansage,50,53,48,53,48,64,/pokedex/pansage,1
+625,512,Simisage,75,98,63,98,63,101,/pokedex/simisage,1
+626,513,Pansear,50,53,48,53,48,64,/pokedex/pansear,1
+627,514,Simisear,75,98,63,98,63,101,/pokedex/simisear,1
+628,515,Panpour,50,53,48,53,48,64,/pokedex/panpour,1
+629,516,Simipour,75,98,63,98,63,101,/pokedex/simipour,1
+630,517,Munna,76,25,45,67,55,24,/pokedex/munna,1
+631,518,Musharna,116,55,85,107,95,29,/pokedex/musharna,1
+632,519,Pidove,50,55,50,36,30,43,/pokedex/pidove,1
+633,520,Tranquill,62,77,62,50,42,65,/pokedex/tranquill,1
+634,521,Unfezant,80,115,80,65,55,93,/pokedex/unfezant,1
+635,522,Blitzle,45,60,32,50,32,76,/pokedex/blitzle,1
+636,523,Zebstrika,75,100,63,80,63,116,/pokedex/zebstrika,1
+637,524,Roggenrola,55,75,85,25,25,15,/pokedex/roggenrola,1
+638,525,Boldore,70,105,105,50,40,20,/pokedex/boldore,1
+639,526,Gigalith,85,135,130,60,80,25,/pokedex/gigalith,1
+640,527,Woobat,65,45,43,55,43,72,/pokedex/woobat,1
+641,528,Swoobat,67,57,55,77,55,114,/pokedex/swoobat,1
+642,529,Drilbur,60,85,40,30,45,68,/pokedex/drilbur,1
+643,530,Excadrill,110,135,60,50,65,88,/pokedex/excadrill,1
+644,531,Audino,103,60,86,60,86,50,/pokedex/audino,2
+645,531,Mega Audino,103,60,126,80,126,50,/pokedex/audino,2
+646,532,Timburr,75,80,55,25,35,35,/pokedex/timburr,1
+647,533,Gurdurr,85,105,85,40,50,40,/pokedex/gurdurr,1
+648,534,Conkeldurr,105,140,95,55,65,45,/pokedex/conkeldurr,1
+649,535,Tympole,50,50,40,50,40,64,/pokedex/tympole,1
+650,536,Palpitoad,75,65,55,65,55,69,/pokedex/palpitoad,1
+651,537,Seismitoad,105,95,75,85,75,74,/pokedex/seismitoad,1
+652,538,Throh,120,100,85,30,85,45,/pokedex/throh,1
+653,539,Sawk,75,125,75,30,75,85,/pokedex/sawk,1
+654,540,Sewaddle,45,53,70,40,60,42,/pokedex/sewaddle,1
+655,541,Swadloon,55,63,90,50,80,42,/pokedex/swadloon,1
+656,542,Leavanny,75,103,80,70,80,92,/pokedex/leavanny,1
+657,543,Venipede,30,45,59,30,39,57,/pokedex/venipede,1
+658,544,Whirlipede,40,55,99,40,79,47,/pokedex/whirlipede,1
+659,545,Scolipede,60,100,89,55,69,112,/pokedex/scolipede,1
+660,546,Cottonee,40,27,60,37,50,66,/pokedex/cottonee,1
+661,547,Whimsicott,60,67,85,77,75,116,/pokedex/whimsicott,1
+662,548,Petilil,45,35,50,70,50,30,/pokedex/petilil,1
+663,549,Lilligant,70,60,75,110,75,90,/pokedex/lilligant,2
+664,549,Hisuian Lilligant,70,105,75,50,75,105,/pokedex/lilligant,2
+665,550,Red-Striped Form,70,92,65,80,55,98,/pokedex/basculin,3
+666,550,Blue-Striped Form,70,92,65,80,55,98,/pokedex/basculin,3
+667,550,White-Striped Form,70,92,65,80,55,98,/pokedex/basculin,3
+668,551,Sandile,50,72,35,35,35,65,/pokedex/sandile,1
+669,552,Krokorok,60,82,45,45,45,74,/pokedex/krokorok,1
+670,553,Krookodile,95,117,80,65,70,92,/pokedex/krookodile,1
+671,554,Darumaka,70,90,45,15,45,50,/pokedex/darumaka,2
+672,554,Galarian Darumaka,70,90,45,15,45,50,/pokedex/darumaka,2
+673,555,Standard Mode,105,140,55,30,55,95,/pokedex/darmanitan,4
+674,555,Zen Mode,105,30,105,140,105,55,/pokedex/darmanitan,4
+675,555,Galarian Standard Mode,105,140,55,30,55,95,/pokedex/darmanitan,4
+676,555,Galarian Zen Mode,105,160,55,30,55,135,/pokedex/darmanitan,4
+677,556,Maractus,75,86,67,106,67,60,/pokedex/maractus,1
+678,557,Dwebble,50,65,85,35,35,55,/pokedex/dwebble,1
+679,558,Crustle,70,105,125,65,75,45,/pokedex/crustle,1
+680,559,Scraggy,50,75,70,35,70,48,/pokedex/scraggy,1
+681,560,Scrafty,65,90,115,45,115,58,/pokedex/scrafty,1
+682,561,Sigilyph,72,58,80,103,80,97,/pokedex/sigilyph,1
+683,562,Yamask,38,30,85,55,65,30,/pokedex/yamask,2
+684,562,Galarian Yamask,38,55,85,30,65,30,/pokedex/yamask,2
+685,563,Cofagrigus,58,50,145,95,105,30,/pokedex/cofagrigus,1
+686,564,Tirtouga,54,78,103,53,45,22,/pokedex/tirtouga,1
+687,565,Carracosta,74,108,133,83,65,32,/pokedex/carracosta,1
+688,566,Archen,55,112,45,74,45,70,/pokedex/archen,1
+689,567,Archeops,75,140,65,112,65,110,/pokedex/archeops,1
+690,568,Trubbish,50,50,62,40,62,65,/pokedex/trubbish,1
+691,569,Garbodor,80,95,82,60,82,75,/pokedex/garbodor,1
+692,570,Zorua,40,65,40,80,40,65,/pokedex/zorua,2
+693,570,Hisuian Zorua,35,60,40,85,40,70,/pokedex/zorua,2
+694,571,Zoroark,60,105,60,120,60,105,/pokedex/zoroark,2
+695,571,Hisuian Zoroark,60,105,60,120,60,105,/pokedex/zoroark,2
+696,572,Minccino,55,50,40,40,40,75,/pokedex/minccino,1
+697,573,Cinccino,75,95,60,65,60,115,/pokedex/cinccino,1
+698,574,Gothita,45,30,50,55,65,45,/pokedex/gothita,1
+699,575,Gothorita,60,45,70,75,85,55,/pokedex/gothorita,1
+700,576,Gothitelle,70,55,95,95,110,65,/pokedex/gothitelle,1
+701,577,Solosis,45,30,40,105,50,20,/pokedex/solosis,1
+702,578,Duosion,65,40,50,125,60,30,/pokedex/duosion,1
+703,579,Reuniclus,110,65,75,125,85,30,/pokedex/reuniclus,1
+704,580,Ducklett,62,44,50,44,50,55,/pokedex/ducklett,1
+705,581,Swanna,75,87,63,87,63,98,/pokedex/swanna,1
+706,582,Vanillite,36,50,50,65,60,44,/pokedex/vanillite,1
+707,583,Vanillish,51,65,65,80,75,59,/pokedex/vanillish,1
+708,584,Vanilluxe,71,95,85,110,95,79,/pokedex/vanilluxe,1
+709,585,Deerling,60,60,50,40,50,75,/pokedex/deerling,1
+710,586,Sawsbuck,80,100,70,60,70,95,/pokedex/sawsbuck,1
+711,587,Emolga,55,75,60,75,60,103,/pokedex/emolga,1
+712,588,Karrablast,50,75,45,40,45,60,/pokedex/karrablast,1
+713,589,Escavalier,70,135,105,60,105,20,/pokedex/escavalier,1
+714,590,Foongus,69,55,45,55,55,15,/pokedex/foongus,1
+715,591,Amoonguss,114,85,70,85,80,30,/pokedex/amoonguss,1
+716,592,Frillish,55,40,50,65,85,40,/pokedex/frillish,1
+717,593,Jellicent,100,60,70,85,105,60,/pokedex/jellicent,1
+718,594,Alomomola,165,75,80,40,45,65,/pokedex/alomomola,1
+719,595,Joltik,50,47,50,57,50,65,/pokedex/joltik,1
+720,596,Galvantula,70,77,60,97,60,108,/pokedex/galvantula,1
+721,597,Ferroseed,44,50,91,24,86,10,/pokedex/ferroseed,1
+722,598,Ferrothorn,74,94,131,54,116,20,/pokedex/ferrothorn,1
+723,599,Klink,40,55,70,45,60,30,/pokedex/klink,1
+724,600,Klang,60,80,95,70,85,50,/pokedex/klang,1
+725,601,Klinklang,60,100,115,70,85,90,/pokedex/klinklang,1
+726,602,Tynamo,35,55,40,45,40,60,/pokedex/tynamo,1
+727,603,Eelektrik,65,85,70,75,70,40,/pokedex/eelektrik,1
+728,604,Eelektross,85,115,80,105,80,50,/pokedex/eelektross,1
+729,605,Elgyem,55,55,55,85,55,30,/pokedex/elgyem,1
+730,606,Beheeyem,75,75,75,125,95,40,/pokedex/beheeyem,1
+731,607,Litwick,50,30,55,65,55,20,/pokedex/litwick,1
+732,608,Lampent,60,40,60,95,60,55,/pokedex/lampent,1
+733,609,Chandelure,60,55,90,145,90,80,/pokedex/chandelure,1
+734,610,Axew,46,87,60,30,40,57,/pokedex/axew,1
+735,611,Fraxure,66,117,70,40,50,67,/pokedex/fraxure,1
+736,612,Haxorus,76,147,90,60,70,97,/pokedex/haxorus,1
+737,613,Cubchoo,55,70,40,60,40,40,/pokedex/cubchoo,1
+738,614,Beartic,95,130,80,70,80,50,/pokedex/beartic,1
+739,615,Cryogonal,80,50,50,95,135,105,/pokedex/cryogonal,1
+740,616,Shelmet,50,40,85,40,65,25,/pokedex/shelmet,1
+741,617,Accelgor,80,70,40,100,60,145,/pokedex/accelgor,1
+742,618,Stunfisk,109,66,84,81,99,32,/pokedex/stunfisk,2
+743,618,Galarian Stunfisk,109,81,99,66,84,32,/pokedex/stunfisk,2
+744,619,Mienfoo,45,85,50,55,50,65,/pokedex/mienfoo,1
+745,620,Mienshao,65,125,60,95,60,105,/pokedex/mienshao,1
+746,621,Druddigon,77,120,90,60,90,48,/pokedex/druddigon,1
+747,622,Golett,59,74,50,35,50,35,/pokedex/golett,1
+748,623,Golurk,89,124,80,55,80,55,/pokedex/golurk,1
+749,624,Pawniard,45,85,70,40,40,60,/pokedex/pawniard,1
+750,625,Bisharp,65,125,100,60,70,70,/pokedex/bisharp,1
+751,626,Bouffalant,95,110,95,40,95,55,/pokedex/bouffalant,1
+752,627,Rufflet,70,83,50,37,50,60,/pokedex/rufflet,1
+753,628,Braviary,100,123,75,57,75,80,/pokedex/braviary,2
+754,628,Hisuian Braviary,110,83,70,112,70,65,/pokedex/braviary,2
+755,629,Vullaby,70,55,75,45,65,60,/pokedex/vullaby,1
+756,630,Mandibuzz,110,65,105,55,95,80,/pokedex/mandibuzz,1
+757,631,Heatmor,85,97,66,105,66,65,/pokedex/heatmor,1
+758,632,Durant,58,109,112,48,48,109,/pokedex/durant,1
+759,633,Deino,52,65,50,45,50,38,/pokedex/deino,1
+760,634,Zweilous,72,85,70,65,70,58,/pokedex/zweilous,1
+761,635,Hydreigon,92,105,90,125,90,98,/pokedex/hydreigon,1
+762,636,Larvesta,55,85,55,50,55,60,/pokedex/larvesta,1
+763,637,Volcarona,85,60,65,135,105,100,/pokedex/volcarona,1
+764,638,Cobalion,91,90,129,90,72,108,/pokedex/cobalion,1
+765,639,Terrakion,91,129,90,72,90,108,/pokedex/terrakion,1
+766,640,Virizion,91,90,72,90,129,108,/pokedex/virizion,1
+767,641,Incarnate Forme,79,115,70,125,80,111,/pokedex/tornadus,2
+768,641,Therian Forme,79,100,80,110,90,121,/pokedex/tornadus,2
+769,642,Incarnate Forme,79,115,70,125,80,111,/pokedex/thundurus,2
+770,642,Therian Forme,79,105,70,145,80,101,/pokedex/thundurus,2
+771,643,Reshiram,100,120,100,150,120,90,/pokedex/reshiram,1
+772,644,Zekrom,100,150,120,120,100,90,/pokedex/zekrom,1
+773,645,Incarnate Forme,89,125,90,115,80,101,/pokedex/landorus,2
+774,645,Therian Forme,89,145,90,105,80,91,/pokedex/landorus,2
+775,646,Kyurem,125,130,90,130,90,95,/pokedex/kyurem,3
+776,646,White Kyurem,125,120,90,170,100,95,/pokedex/kyurem,3
+777,646,Black Kyurem,125,170,100,120,90,95,/pokedex/kyurem,3
+778,647,Ordinary Form,91,72,90,129,90,108,/pokedex/keldeo,2
+779,647,Resolute Form,91,72,90,129,90,108,/pokedex/keldeo,2
+780,648,Aria Forme,100,77,77,128,128,90,/pokedex/meloetta,2
+781,648,Pirouette Forme,100,128,90,77,77,128,/pokedex/meloetta,2
+782,649,Genesect,71,120,95,120,95,99,/pokedex/genesect,1
+783,650,Chespin,56,61,65,48,45,38,/pokedex/chespin,1
+784,651,Quilladin,61,78,95,56,58,57,/pokedex/quilladin,1
+785,652,Chesnaught,88,107,122,74,75,64,/pokedex/chesnaught,1
+786,653,Fennekin,40,45,40,62,60,60,/pokedex/fennekin,1
+787,654,Braixen,59,59,58,90,70,73,/pokedex/braixen,1
+788,655,Delphox,75,69,72,114,100,104,/pokedex/delphox,1
+789,656,Froakie,41,56,40,62,44,71,/pokedex/froakie,1
+790,657,Frogadier,54,63,52,83,56,97,/pokedex/frogadier,1
+791,658,Greninja,72,95,67,103,71,122,/pokedex/greninja,2
+792,658,Ash-Greninja,72,145,67,153,71,132,/pokedex/greninja,2
+793,659,Bunnelby,38,36,38,32,36,57,/pokedex/bunnelby,1
+794,660,Diggersby,85,56,77,50,77,78,/pokedex/diggersby,1
+795,661,Fletchling,45,50,43,40,38,62,/pokedex/fletchling,1
+796,662,Fletchinder,62,73,55,56,52,84,/pokedex/fletchinder,1
+797,663,Talonflame,78,81,71,74,69,126,/pokedex/talonflame,1
+798,664,Scatterbug,38,35,40,27,25,35,/pokedex/scatterbug,1
+799,665,Spewpa,45,22,60,27,30,29,/pokedex/spewpa,1
+800,666,Vivillon,80,52,50,90,50,89,/pokedex/vivillon,1
+801,667,Litleo,62,50,58,73,54,72,/pokedex/litleo,1
+802,668,Pyroar,86,68,72,109,66,106,/pokedex/pyroar,1
+803,669,Flabébé,44,38,39,61,79,42,/pokedex/flabebe,1
+804,670,Floette,54,45,47,75,98,52,/pokedex/floette,1
+805,671,Florges,78,65,68,112,154,75,/pokedex/florges,1
+806,672,Skiddo,66,65,48,62,57,52,/pokedex/skiddo,1
+807,673,Gogoat,123,100,62,97,81,68,/pokedex/gogoat,1
+808,674,Pancham,67,82,62,46,48,43,/pokedex/pancham,1
+809,675,Pangoro,95,124,78,69,71,58,/pokedex/pangoro,1
+810,676,Furfrou,75,80,60,65,90,102,/pokedex/furfrou,1
+811,677,Espurr,62,48,54,63,60,68,/pokedex/espurr,1
+812,678,Male,74,48,76,83,81,104,/pokedex/meowstic,2
+813,678,Female,74,48,76,83,81,104,/pokedex/meowstic,2
+814,679,Honedge,45,80,100,35,37,28,/pokedex/honedge,1
+815,680,Doublade,59,110,150,45,49,35,/pokedex/doublade,1
+816,681,Shield Forme,60,50,140,50,140,60,/pokedex/aegislash,2
+817,681,Blade Forme,60,140,50,140,50,60,/pokedex/aegislash,2
+818,682,Spritzee,78,52,60,63,65,23,/pokedex/spritzee,1
+819,683,Aromatisse,101,72,72,99,89,29,/pokedex/aromatisse,1
+820,684,Swirlix,62,48,66,59,57,49,/pokedex/swirlix,1
+821,685,Slurpuff,82,80,86,85,75,72,/pokedex/slurpuff,1
+822,686,Inkay,53,54,53,37,46,45,/pokedex/inkay,1
+823,687,Malamar,86,92,88,68,75,73,/pokedex/malamar,1
+824,688,Binacle,42,52,67,39,56,50,/pokedex/binacle,1
+825,689,Barbaracle,72,105,115,54,86,68,/pokedex/barbaracle,1
+826,690,Skrelp,50,60,60,60,60,30,/pokedex/skrelp,1
+827,691,Dragalge,65,75,90,97,123,44,/pokedex/dragalge,1
+828,692,Clauncher,50,53,62,58,63,44,/pokedex/clauncher,1
+829,693,Clawitzer,71,73,88,120,89,59,/pokedex/clawitzer,1
+830,694,Helioptile,44,38,33,61,43,70,/pokedex/helioptile,1
+831,695,Heliolisk,62,55,52,109,94,109,/pokedex/heliolisk,1
+832,696,Tyrunt,58,89,77,45,45,48,/pokedex/tyrunt,1
+833,697,Tyrantrum,82,121,119,69,59,71,/pokedex/tyrantrum,1
+834,698,Amaura,77,59,50,67,63,46,/pokedex/amaura,1
+835,699,Aurorus,123,77,72,99,92,58,/pokedex/aurorus,1
+836,700,Sylveon,95,65,65,110,130,60,/pokedex/sylveon,1
+837,701,Hawlucha,78,92,75,74,63,118,/pokedex/hawlucha,1
+838,702,Dedenne,67,58,57,81,67,101,/pokedex/dedenne,1
+839,703,Carbink,50,50,150,50,150,50,/pokedex/carbink,1
+840,704,Goomy,45,50,35,55,75,40,/pokedex/goomy,1
+841,705,Sliggoo,68,75,53,83,113,60,/pokedex/sliggoo,2
+842,705,Hisuian Sliggoo,58,75,83,83,113,40,/pokedex/sliggoo,2
+843,706,Goodra,90,100,70,110,150,80,/pokedex/goodra,2
+844,706,Hisuian Goodra,80,100,100,110,150,60,/pokedex/goodra,2
+845,707,Klefki,57,80,91,80,87,75,/pokedex/klefki,1
+846,708,Phantump,43,70,48,50,60,38,/pokedex/phantump,1
+847,709,Trevenant,85,110,76,65,82,56,/pokedex/trevenant,1
+848,710,Average Size,49,66,70,44,55,51,/pokedex/pumpkaboo,4
+849,710,Small Size,44,66,70,44,55,56,/pokedex/pumpkaboo,4
+850,710,Large Size,54,66,70,44,55,46,/pokedex/pumpkaboo,4
+851,710,Super Size,59,66,70,44,55,41,/pokedex/pumpkaboo,4
+852,711,Average Size,65,90,122,58,75,84,/pokedex/gourgeist,4
+853,711,Small Size,55,85,122,58,75,99,/pokedex/gourgeist,4
+854,711,Large Size,75,95,122,58,75,69,/pokedex/gourgeist,4
+855,711,Super Size,85,100,122,58,75,54,/pokedex/gourgeist,4
+856,712,Bergmite,55,69,85,32,35,28,/pokedex/bergmite,1
+857,713,Avalugg,95,117,184,44,46,28,/pokedex/avalugg,2
+858,713,Hisuian Avalugg,95,127,184,34,36,38,/pokedex/avalugg,2
+859,714,Noibat,40,30,35,45,40,55,/pokedex/noibat,1
+860,715,Noivern,85,70,80,97,80,123,/pokedex/noivern,1
+861,716,Xerneas,126,131,95,131,98,99,/pokedex/xerneas,1
+862,717,Yveltal,126,131,95,131,98,99,/pokedex/yveltal,1
+863,718,50% Forme,108,100,121,81,95,95,/pokedex/zygarde,3
+864,718,10% Forme,54,100,71,61,85,115,/pokedex/zygarde,3
+865,718,Complete Forme,216,100,121,91,95,85,/pokedex/zygarde,3
+866,719,Diancie,50,100,150,100,150,50,/pokedex/diancie,2
+867,719,Mega Diancie,50,160,110,160,110,110,/pokedex/diancie,2
+868,720,Hoopa Confined,80,110,60,150,130,70,/pokedex/hoopa,2
+869,720,Hoopa Unbound,80,160,60,170,130,80,/pokedex/hoopa,2
+870,721,Volcanion,80,110,120,130,90,70,/pokedex/volcanion,1
+871,722,Rowlet,68,55,55,50,50,42,/pokedex/rowlet,1
+872,723,Dartrix,78,75,75,70,70,52,/pokedex/dartrix,1
+873,724,Decidueye,78,107,75,100,100,70,/pokedex/decidueye,2
+874,724,Hisuian Decidueye,88,112,80,95,95,60,/pokedex/decidueye,2
+875,725,Litten,45,65,40,60,40,70,/pokedex/litten,1
+876,726,Torracat,65,85,50,80,50,90,/pokedex/torracat,1
+877,727,Incineroar,95,115,90,80,90,60,/pokedex/incineroar,1
+878,728,Popplio,50,54,54,66,56,40,/pokedex/popplio,1
+879,729,Brionne,60,69,69,91,81,50,/pokedex/brionne,1
+880,730,Primarina,80,74,74,126,116,60,/pokedex/primarina,1
+881,731,Pikipek,35,75,30,30,30,65,/pokedex/pikipek,1
+882,732,Trumbeak,55,85,50,40,50,75,/pokedex/trumbeak,1
+883,733,Toucannon,80,120,75,75,75,60,/pokedex/toucannon,1
+884,734,Yungoos,48,70,30,30,30,45,/pokedex/yungoos,1
+885,735,Gumshoos,88,110,60,55,60,45,/pokedex/gumshoos,1
+886,736,Grubbin,47,62,45,55,45,46,/pokedex/grubbin,1
+887,737,Charjabug,57,82,95,55,75,36,/pokedex/charjabug,1
+888,738,Vikavolt,77,70,90,145,75,43,/pokedex/vikavolt,1
+889,739,Crabrawler,47,82,57,42,47,63,/pokedex/crabrawler,1
+890,740,Crabominable,97,132,77,62,67,43,/pokedex/crabominable,1
+891,741,Baile Style,75,70,70,98,70,93,/pokedex/oricorio,4
+892,741,Pom-Pom Style,75,70,70,98,70,93,/pokedex/oricorio,4
+893,741,Pa'u Style,75,70,70,98,70,93,/pokedex/oricorio,4
+894,741,Sensu Style,75,70,70,98,70,93,/pokedex/oricorio,4
+895,742,Cutiefly,40,45,40,55,40,84,/pokedex/cutiefly,1
+896,743,Ribombee,60,55,60,95,70,124,/pokedex/ribombee,1
+897,744,Rockruff,45,65,40,30,40,60,/pokedex/rockruff,2
+898,744,Own Tempo Rockruff,45,65,40,30,40,60,/pokedex/rockruff,2
+899,745,Midday Form,75,115,65,55,65,112,/pokedex/lycanroc,3
+900,745,Midnight Form,85,115,75,55,75,82,/pokedex/lycanroc,3
+901,745,Dusk Form,75,117,65,55,65,110,/pokedex/lycanroc,3
+902,746,Solo Form,45,20,20,25,25,40,/pokedex/wishiwashi,2
+903,746,School Form,45,140,130,140,135,30,/pokedex/wishiwashi,2
+904,747,Mareanie,50,53,62,43,52,45,/pokedex/mareanie,1
+905,748,Toxapex,50,63,152,53,142,35,/pokedex/toxapex,1
+906,749,Mudbray,70,100,70,45,55,45,/pokedex/mudbray,1
+907,750,Mudsdale,100,125,100,55,85,35,/pokedex/mudsdale,1
+908,751,Dewpider,38,40,52,40,72,27,/pokedex/dewpider,1
+909,752,Araquanid,68,70,92,50,132,42,/pokedex/araquanid,1
+910,753,Fomantis,40,55,35,50,35,35,/pokedex/fomantis,1
+911,754,Lurantis,70,105,90,80,90,45,/pokedex/lurantis,1
+912,755,Morelull,40,35,55,65,75,15,/pokedex/morelull,1
+913,756,Shiinotic,60,45,80,90,100,30,/pokedex/shiinotic,1
+914,757,Salandit,48,44,40,71,40,77,/pokedex/salandit,1
+915,758,Salazzle,68,64,60,111,60,117,/pokedex/salazzle,1
+916,759,Stufful,70,75,50,45,50,50,/pokedex/stufful,1
+917,760,Bewear,120,125,80,55,60,60,/pokedex/bewear,1
+918,761,Bounsweet,42,30,38,30,38,32,/pokedex/bounsweet,1
+919,762,Steenee,52,40,48,40,48,62,/pokedex/steenee,1
+920,763,Tsareena,72,120,98,50,98,72,/pokedex/tsareena,1
+921,764,Comfey,51,52,90,82,110,100,/pokedex/comfey,1
+922,765,Oranguru,90,60,80,90,110,60,/pokedex/oranguru,1
+923,766,Passimian,100,120,90,40,60,80,/pokedex/passimian,1
+924,767,Wimpod,25,35,40,20,30,80,/pokedex/wimpod,1
+925,768,Golisopod,75,125,140,60,90,40,/pokedex/golisopod,1
+926,769,Sandygast,55,55,80,70,45,15,/pokedex/sandygast,1
+927,770,Palossand,85,75,110,100,75,35,/pokedex/palossand,1
+928,771,Pyukumuku,55,60,130,30,130,5,/pokedex/pyukumuku,1
+929,772,Type: Null,95,95,95,95,95,59,/pokedex/type-null,1
+930,773,Silvally,95,95,95,95,95,95,/pokedex/silvally,1
+931,774,Meteor Form,60,60,100,60,100,60,/pokedex/minior,2
+932,774,Core Form,60,100,60,100,60,120,/pokedex/minior,2
+933,775,Komala,65,115,65,75,95,65,/pokedex/komala,1
+934,776,Turtonator,60,78,135,91,85,36,/pokedex/turtonator,1
+935,777,Togedemaru,65,98,63,40,73,96,/pokedex/togedemaru,1
+936,778,Mimikyu,55,90,80,50,105,96,/pokedex/mimikyu,1
+937,779,Bruxish,68,105,70,70,70,92,/pokedex/bruxish,1
+938,780,Drampa,78,60,85,135,91,36,/pokedex/drampa,1
+939,781,Dhelmise,70,131,100,86,90,40,/pokedex/dhelmise,1
+940,782,Jangmo-o,45,55,65,45,45,45,/pokedex/jangmo-o,1
+941,783,Hakamo-o,55,75,90,65,70,65,/pokedex/hakamo-o,1
+942,784,Kommo-o,75,110,125,100,105,85,/pokedex/kommo-o,1
+943,785,Tapu Koko,70,115,85,95,75,130,/pokedex/tapu-koko,1
+944,786,Tapu Lele,70,85,75,130,115,95,/pokedex/tapu-lele,1
+945,787,Tapu Bulu,70,130,115,85,95,75,/pokedex/tapu-bulu,1
+946,788,Tapu Fini,70,75,115,95,130,85,/pokedex/tapu-fini,1
+947,789,Cosmog,43,29,31,29,31,37,/pokedex/cosmog,1
+948,790,Cosmoem,43,29,131,29,131,37,/pokedex/cosmoem,1
+949,791,Solgaleo,137,137,107,113,89,97,/pokedex/solgaleo,1
+950,792,Lunala,137,113,89,137,107,97,/pokedex/lunala,1
+951,793,Nihilego,109,53,47,127,131,103,/pokedex/nihilego,1
+952,794,Buzzwole,107,139,139,53,53,79,/pokedex/buzzwole,1
+953,795,Pheromosa,71,137,37,137,37,151,/pokedex/pheromosa,1
+954,796,Xurkitree,83,89,71,173,71,83,/pokedex/xurkitree,1
+955,797,Celesteela,97,101,103,107,101,61,/pokedex/celesteela,1
+956,798,Kartana,59,181,131,59,31,109,/pokedex/kartana,1
+957,799,Guzzlord,223,101,53,97,53,43,/pokedex/guzzlord,1
+958,800,Necrozma,97,107,101,127,89,79,/pokedex/necrozma,4
+959,800,Dusk Mane Necrozma,97,157,127,113,109,77,/pokedex/necrozma,4
+960,800,Dawn Wings Necrozma,97,113,109,157,127,77,/pokedex/necrozma,4
+961,800,Ultra Necrozma,97,167,97,167,97,129,/pokedex/necrozma,4
+962,801,Magearna,80,95,115,130,115,65,/pokedex/magearna,1
+963,802,Marshadow,90,125,80,90,90,125,/pokedex/marshadow,1
+964,803,Poipole,67,73,67,73,67,73,/pokedex/poipole,1
+965,804,Naganadel,73,73,73,127,73,121,/pokedex/naganadel,1
+966,805,Stakataka,61,131,211,53,101,13,/pokedex/stakataka,1
+967,806,Blacephalon,53,127,53,151,79,107,/pokedex/blacephalon,1
+968,807,Zeraora,88,112,75,102,80,143,/pokedex/zeraora,1
+969,808,Meltan,46,65,65,55,35,34,/pokedex/meltan,1
+970,809,Melmetal,135,143,143,80,65,34,/pokedex/melmetal,1
+971,810,Grookey,50,65,50,40,40,65,/pokedex/grookey,1
+972,811,Thwackey,70,85,70,55,60,80,/pokedex/thwackey,1
+973,812,Rillaboom,100,125,90,60,70,85,/pokedex/rillaboom,1
+974,813,Scorbunny,50,71,40,40,40,69,/pokedex/scorbunny,1
+975,814,Raboot,65,86,60,55,60,94,/pokedex/raboot,1
+976,815,Cinderace,80,116,75,65,75,119,/pokedex/cinderace,1
+977,816,Sobble,50,40,40,70,40,70,/pokedex/sobble,1
+978,817,Drizzile,65,60,55,95,55,90,/pokedex/drizzile,1
+979,818,Inteleon,70,85,65,125,65,120,/pokedex/inteleon,1
+980,819,Skwovet,70,55,55,35,35,25,/pokedex/skwovet,1
+981,820,Greedent,120,95,95,55,75,20,/pokedex/greedent,1
+982,821,Rookidee,38,47,35,33,35,57,/pokedex/rookidee,1
+983,822,Corvisquire,68,67,55,43,55,77,/pokedex/corvisquire,1
+984,823,Corviknight,98,87,105,53,85,67,/pokedex/corviknight,1
+985,824,Blipbug,25,20,20,25,45,45,/pokedex/blipbug,1
+986,825,Dottler,50,35,80,50,90,30,/pokedex/dottler,1
+987,826,Orbeetle,60,45,110,80,120,90,/pokedex/orbeetle,1
+988,827,Nickit,40,28,28,47,52,50,/pokedex/nickit,1
+989,828,Thievul,70,58,58,87,92,90,/pokedex/thievul,1
+990,829,Gossifleur,40,40,60,40,60,10,/pokedex/gossifleur,1
+991,830,Eldegoss,60,50,90,80,120,60,/pokedex/eldegoss,1
+992,831,Wooloo,42,40,55,40,45,48,/pokedex/wooloo,1
+993,832,Dubwool,72,80,100,60,90,88,/pokedex/dubwool,1
+994,833,Chewtle,50,64,50,38,38,44,/pokedex/chewtle,1
+995,834,Drednaw,90,115,90,48,68,74,/pokedex/drednaw,1
+996,835,Yamper,59,45,50,40,50,26,/pokedex/yamper,1
+997,836,Boltund,69,90,60,90,60,121,/pokedex/boltund,1
+998,837,Rolycoly,30,40,50,40,50,30,/pokedex/rolycoly,1
+999,838,Carkol,80,60,90,60,70,50,/pokedex/carkol,1
+1000,839,Coalossal,110,80,120,80,90,30,/pokedex/coalossal,1
+1001,840,Applin,40,40,80,40,40,20,/pokedex/applin,1
+1002,841,Flapple,70,110,80,95,60,70,/pokedex/flapple,1
+1003,842,Appletun,110,85,80,100,80,30,/pokedex/appletun,1
+1004,843,Silicobra,52,57,75,35,50,46,/pokedex/silicobra,1
+1005,844,Sandaconda,72,107,125,65,70,71,/pokedex/sandaconda,1
+1006,845,Cramorant,70,85,55,85,95,85,/pokedex/cramorant,1
+1007,846,Arrokuda,41,63,40,40,30,66,/pokedex/arrokuda,1
+1008,847,Barraskewda,61,123,60,60,50,136,/pokedex/barraskewda,1
+1009,848,Toxel,40,38,35,54,35,40,/pokedex/toxel,1
+1010,849,Amped Form,75,98,70,114,70,75,/pokedex/toxtricity,2
+1011,849,Low Key Form,75,98,70,114,70,75,/pokedex/toxtricity,2
+1012,850,Sizzlipede,50,65,45,50,50,45,/pokedex/sizzlipede,1
+1013,851,Centiskorch,100,115,65,90,90,65,/pokedex/centiskorch,1
+1014,852,Clobbopus,50,68,60,50,50,32,/pokedex/clobbopus,1
+1015,853,Grapploct,80,118,90,70,80,42,/pokedex/grapploct,1
+1016,854,Sinistea,40,45,45,74,54,50,/pokedex/sinistea,1
+1017,855,Polteageist,60,65,65,134,114,70,/pokedex/polteageist,1
+1018,856,Hatenna,42,30,45,56,53,39,/pokedex/hatenna,1
+1019,857,Hattrem,57,40,65,86,73,49,/pokedex/hattrem,1
+1020,858,Hatterene,57,90,95,136,103,29,/pokedex/hatterene,1
+1021,859,Impidimp,45,45,30,55,40,50,/pokedex/impidimp,1
+1022,860,Morgrem,65,60,45,75,55,70,/pokedex/morgrem,1
+1023,861,Grimmsnarl,95,120,65,95,75,60,/pokedex/grimmsnarl,1
+1024,862,Obstagoon,93,90,101,60,81,95,/pokedex/obstagoon,1
+1025,863,Perrserker,70,110,100,50,60,50,/pokedex/perrserker,1
+1026,864,Cursola,60,95,50,145,130,30,/pokedex/cursola,1
+1027,865,Sirfetch'd,62,135,95,68,82,65,/pokedex/sirfetchd,1
+1028,866,Mr. Rime,80,85,75,110,100,70,/pokedex/mr-rime,1
+1029,867,Runerigus,58,95,145,50,105,30,/pokedex/runerigus,1
+1030,868,Milcery,45,40,40,50,61,34,/pokedex/milcery,1
+1031,869,Alcremie,65,60,75,110,121,64,/pokedex/alcremie,1
+1032,870,Falinks,65,100,100,70,60,75,/pokedex/falinks,1
+1033,871,Pincurchin,48,101,95,91,85,15,/pokedex/pincurchin,1
+1034,872,Snom,30,25,35,45,30,20,/pokedex/snom,1
+1035,873,Frosmoth,70,65,60,125,90,65,/pokedex/frosmoth,1
+1036,874,Stonjourner,100,125,135,20,20,70,/pokedex/stonjourner,1
+1037,875,Ice Face,75,80,110,65,90,50,/pokedex/eiscue,2
+1038,875,Noice Face,75,80,70,65,50,130,/pokedex/eiscue,2
+1039,876,Male,60,65,55,105,95,95,/pokedex/indeedee,2
+1040,876,Female,70,55,65,95,105,85,/pokedex/indeedee,2
+1041,877,Full Belly Mode,58,95,58,70,58,97,/pokedex/morpeko,2
+1042,877,Hangry Mode,58,95,58,70,58,97,/pokedex/morpeko,2
+1043,878,Cufant,72,80,49,40,49,40,/pokedex/cufant,1
+1044,879,Copperajah,122,130,69,80,69,30,/pokedex/copperajah,1
+1045,880,Dracozolt,90,100,90,80,70,75,/pokedex/dracozolt,1
+1046,881,Arctozolt,90,100,90,90,80,55,/pokedex/arctozolt,1
+1047,882,Dracovish,90,90,100,70,80,75,/pokedex/dracovish,1
+1048,883,Arctovish,90,90,100,80,90,55,/pokedex/arctovish,1
+1049,884,Duraludon,70,95,115,120,50,85,/pokedex/duraludon,1
+1050,885,Dreepy,28,60,30,40,30,82,/pokedex/dreepy,1
+1051,886,Drakloak,68,80,50,60,50,102,/pokedex/drakloak,1
+1052,887,Dragapult,88,120,75,100,75,142,/pokedex/dragapult,1
+1053,888,Hero of Many Battles,92,120,115,80,115,138,/pokedex/zacian,2
+1054,888,Crowned Sword,92,150,115,80,115,148,/pokedex/zacian,2
+1055,889,Hero of Many Battles,92,120,115,80,115,138,/pokedex/zamazenta,2
+1056,889,Crowned Shield,92,120,140,80,140,128,/pokedex/zamazenta,2
+1057,890,Eternatus,140,85,95,145,95,130,/pokedex/eternatus,2
+1058,890,Eternamax,255,115,250,125,250,130,/pokedex/eternatus,2
+1059,891,Kubfu,60,90,60,53,50,72,/pokedex/kubfu,1
+1060,892,Single Strike Style,100,130,100,63,60,97,/pokedex/urshifu,2
+1061,892,Rapid Strike Style,100,130,100,63,60,97,/pokedex/urshifu,2
+1062,893,Zarude,105,120,105,70,95,105,/pokedex/zarude,1
+1063,894,Regieleki,80,100,50,100,50,200,/pokedex/regieleki,1
+1064,895,Regidrago,200,100,50,100,50,80,/pokedex/regidrago,1
+1065,896,Glastrier,100,145,130,65,110,30,/pokedex/glastrier,1
+1066,897,Spectrier,100,65,60,145,80,130,/pokedex/spectrier,1
+1067,898,Calyrex,100,80,80,80,80,80,/pokedex/calyrex,3
+1068,898,Ice Rider,100,165,150,85,130,50,/pokedex/calyrex,3
+1069,898,Shadow Rider,100,85,80,165,100,150,/pokedex/calyrex,3
+1070,899,Wyrdeer,103,105,72,105,75,65,/pokedex/wyrdeer,1
+1071,900,Kleavor,70,130,95,45,75,85,/pokedex/kleavor,1
+1072,901,Ursaluna,130,140,105,45,80,50,/pokedex/ursaluna,1
+1073,902,Male,120,112,65,80,75,78,/pokedex/basculegion,2
+1074,902,Female,120,92,65,100,75,78,/pokedex/basculegion,2
+1075,903,Sneasler,80,130,60,40,80,120,/pokedex/sneasler,1
+1076,904,Overqwil,85,115,95,65,65,85,/pokedex/overqwil,1
+1077,905,Incarnate Forme,74,115,70,135,80,106,/pokedex/enamorus,2
+1078,905,Therian Forme,74,115,110,135,100,46,/pokedex/enamorus,2
+1079,906,Sprigatito,40,61,54,45,45,65,/pokedex/sprigatito,1
+1080,907,Floragato,61,80,63,60,63,83,/pokedex/floragato,1
+1081,908,Meowscarada,76,110,70,81,70,123,/pokedex/meowscarada,1
+1082,909,Fuecoco,67,45,59,63,40,36,/pokedex/fuecoco,1
+1083,910,Crocalor,81,55,78,90,58,49,/pokedex/crocalor,1
+1084,911,Skeledirge,104,75,100,110,75,66,/pokedex/skeledirge,1
+1085,912,Quaxly,55,65,45,50,45,50,/pokedex/quaxly,1
+1086,913,Quaxwell,70,85,65,65,60,65,/pokedex/quaxwell,1
+1087,914,Quaquaval,85,120,80,85,75,85,/pokedex/quaquaval,1
+1088,915,Lechonk,54,45,40,35,45,35,/pokedex/lechonk,1
+1089,916,Male,110,100,75,59,80,65,/pokedex/oinkologne,2
+1090,916,Female,115,90,70,59,90,65,/pokedex/oinkologne,2
+1091,917,Tarountula,35,41,45,29,40,20,/pokedex/tarountula,1
+1092,918,Spidops,60,79,92,52,86,35,/pokedex/spidops,1
+1093,919,Nymble,33,46,40,21,25,45,/pokedex/nymble,1
+1094,920,Lokix,71,102,78,52,55,92,/pokedex/lokix,1
+1095,921,Pawmi,45,50,20,40,25,60,/pokedex/pawmi,1
+1096,922,Pawmo,60,75,40,50,40,85,/pokedex/pawmo,1
+1097,923,Pawmot,70,115,70,70,60,105,/pokedex/pawmot,1
+1098,924,Tandemaus,50,50,45,40,45,75,/pokedex/tandemaus,1
+1099,925,Family of Four,74,75,70,65,75,111,/pokedex/maushold,2
+1100,925,Family of Three,74,75,70,65,75,111,/pokedex/maushold,2
+1101,926,Fidough,37,55,70,30,55,65,/pokedex/fidough,1
+1102,927,Dachsbun,57,80,115,50,80,95,/pokedex/dachsbun,1
+1103,928,Smoliv,41,35,45,58,51,30,/pokedex/smoliv,1
+1104,929,Dolliv,52,53,60,78,78,33,/pokedex/dolliv,1
+1105,930,Arboliva,78,69,90,125,109,39,/pokedex/arboliva,1
+1106,931,Green Plumage,82,96,51,45,51,92,/pokedex/squawkabilly,4
+1107,931,Blue Plumage,82,96,51,45,51,92,/pokedex/squawkabilly,4
+1108,931,Yellow Plumage,82,96,51,45,51,92,/pokedex/squawkabilly,4
+1109,931,White Plumage,82,96,51,45,51,92,/pokedex/squawkabilly,4
+1110,932,Nacli,55,55,75,35,35,25,/pokedex/nacli,1
+1111,933,Naclstack,60,60,100,35,65,35,/pokedex/naclstack,1
+1112,934,Garganacl,100,100,130,45,90,35,/pokedex/garganacl,1
+1113,935,Charcadet,40,50,40,50,40,35,/pokedex/charcadet,1
+1114,936,Armarouge,85,60,100,125,80,75,/pokedex/armarouge,1
+1115,937,Ceruledge,75,125,80,60,100,85,/pokedex/ceruledge,1
+1116,938,Tadbulb,61,31,41,59,35,45,/pokedex/tadbulb,1
+1117,939,Bellibolt,109,64,91,103,83,45,/pokedex/bellibolt,1
+1118,940,Wattrel,40,40,35,55,40,70,/pokedex/wattrel,1
+1119,941,Kilowattrel,70,70,60,105,60,125,/pokedex/kilowattrel,1
+1120,942,Maschiff,60,78,60,40,51,51,/pokedex/maschiff,1
+1121,943,Mabosstiff,80,120,90,60,70,85,/pokedex/mabosstiff,1
+1122,944,Shroodle,40,65,35,40,35,75,/pokedex/shroodle,1
+1123,945,Grafaiai,63,95,65,80,72,110,/pokedex/grafaiai,1
+1124,946,Bramblin,40,65,30,45,35,60,/pokedex/bramblin,1
+1125,947,Brambleghast,55,115,70,80,70,90,/pokedex/brambleghast,1
+1126,948,Toedscool,40,40,35,50,100,70,/pokedex/toedscool,1
+1127,949,Toedscruel,80,70,65,80,120,100,/pokedex/toedscruel,1
+1128,950,Klawf,70,100,115,35,55,75,/pokedex/klawf,1
+1129,951,Capsakid,50,62,40,62,40,50,/pokedex/capsakid,1
+1130,952,Scovillain,65,108,65,108,65,75,/pokedex/scovillain,1
+1131,953,Rellor,41,50,60,31,58,30,/pokedex/rellor,1
+1132,954,Rabsca,75,50,85,115,100,45,/pokedex/rabsca,1
+1133,955,Flittle,30,35,30,55,30,75,/pokedex/flittle,1
+1134,956,Espathra,95,60,60,101,60,105,/pokedex/espathra,1
+1135,957,Tinkatink,50,45,45,35,64,58,/pokedex/tinkatink,1
+1136,958,Tinkatuff,65,55,55,45,82,78,/pokedex/tinkatuff,1
+1137,959,Tinkaton,85,75,77,70,105,94,/pokedex/tinkaton,1
+1138,960,Wiglett,10,55,25,35,25,95,/pokedex/wiglett,1
+1139,961,Wugtrio,35,100,50,50,70,120,/pokedex/wugtrio,1
+1140,962,Bombirdier,70,103,85,60,85,82,/pokedex/bombirdier,1
+1141,963,Finizen,70,45,40,45,40,75,/pokedex/finizen,1
+1142,964,Zero Form,100,70,72,53,62,100,/pokedex/palafin,2
+1143,964,Hero Form,100,160,97,106,87,100,/pokedex/palafin,2
+1144,965,Varoom,45,70,63,30,45,47,/pokedex/varoom,1
+1145,966,Revavroom,80,119,90,54,67,90,/pokedex/revavroom,1
+1146,967,Cyclizar,70,95,65,85,65,121,/pokedex/cyclizar,1
+1147,968,Orthworm,70,85,145,60,55,65,/pokedex/orthworm,1
+1148,969,Glimmet,48,35,42,105,60,60,/pokedex/glimmet,1
+1149,970,Glimmora,83,55,90,130,81,86,/pokedex/glimmora,1
+1150,971,Greavard,50,61,60,30,55,34,/pokedex/greavard,1
+1151,972,Houndstone,72,101,100,50,97,68,/pokedex/houndstone,1
+1152,973,Flamigo,82,115,74,75,64,90,/pokedex/flamigo,1
+1153,974,Cetoddle,108,68,45,30,40,43,/pokedex/cetoddle,1
+1154,975,Cetitan,170,113,65,45,55,73,/pokedex/cetitan,1
+1155,976,Veluza,90,102,73,78,65,70,/pokedex/veluza,1
+1156,977,Dondozo,150,100,115,65,65,35,/pokedex/dondozo,1
+1157,978,Curly Form,68,50,60,120,95,82,/pokedex/tatsugiri,3
+1158,978,Droopy Form,68,50,60,120,95,82,/pokedex/tatsugiri,3
+1159,978,Stretchy Form,68,50,60,120,95,82,/pokedex/tatsugiri,3
+1160,979,Annihilape,110,115,80,50,90,90,/pokedex/annihilape,1
+1161,980,Clodsire,130,75,60,45,100,20,/pokedex/clodsire,1
+1162,981,Farigiraf,120,90,70,110,70,60,/pokedex/farigiraf,1
+1163,982,Two-Segment Form,125,100,80,85,75,55,/pokedex/dudunsparce,2
+1164,982,Three-Segment Form,125,100,80,85,75,55,/pokedex/dudunsparce,2
+1165,983,Kingambit,100,135,120,60,85,50,/pokedex/kingambit,1
+1166,984,Great Tusk,115,131,131,53,53,87,/pokedex/great-tusk,1
+1167,985,Scream Tail,115,65,99,65,115,111,/pokedex/scream-tail,1
+1168,986,Brute Bonnet,111,127,99,79,99,55,/pokedex/brute-bonnet,1
+1169,987,Flutter Mane,55,55,55,135,135,135,/pokedex/flutter-mane,1
+1170,988,Slither Wing,85,135,79,85,105,81,/pokedex/slither-wing,1
+1171,989,Sandy Shocks,85,81,97,121,85,101,/pokedex/sandy-shocks,1
+1172,990,Iron Treads,90,112,120,72,70,106,/pokedex/iron-treads,1
+1173,991,Iron Bundle,56,80,114,124,60,136,/pokedex/iron-bundle,1
+1174,992,Iron Hands,154,140,108,50,68,50,/pokedex/iron-hands,1
+1175,993,Iron Jugulis,94,80,86,122,80,108,/pokedex/iron-jugulis,1
+1176,994,Iron Moth,80,70,60,140,110,110,/pokedex/iron-moth,1
+1177,995,Iron Thorns,100,134,110,70,84,72,/pokedex/iron-thorns,1
+1178,996,Frigibax,65,75,45,35,45,55,/pokedex/frigibax,1
+1179,997,Arctibax,90,95,66,45,65,62,/pokedex/arctibax,1
+1180,998,Baxcalibur,115,145,92,75,86,87,/pokedex/baxcalibur,1
+1181,999,Chest Form,45,30,70,75,70,10,/pokedex/gimmighoul,2
+1182,999,Roaming Form,45,30,25,75,45,80,/pokedex/gimmighoul,2
+1183,1000,Gholdengo,87,60,95,133,91,84,/pokedex/gholdengo,1
+1184,1001,Wo-Chien,85,85,100,95,135,70,/pokedex/wo-chien,1
+1185,1002,Chien-Pao,80,120,80,90,65,135,/pokedex/chien-pao,1
+1186,1003,Ting-Lu,155,110,125,55,80,45,/pokedex/ting-lu,1
+1187,1004,Chi-Yu,55,80,80,135,120,100,/pokedex/chi-yu,1
+1188,1005,Roaring Moon,105,139,71,55,101,119,/pokedex/roaring-moon,1
+1189,1006,Iron Valiant,74,130,90,120,60,116,/pokedex/iron-valiant,1
+1190,1007,Koraidon,100,135,115,85,100,135,/pokedex/koraidon,1
+1191,1008,Miraidon,100,85,100,135,115,135,/pokedex/miraidon,1
+1192,1009,Walking Wake,99,83,91,125,83,109,/pokedex/walking-wake,1
+1193,1010,Iron Leaves,90,130,88,70,108,104,/pokedex/iron-leaves,1
